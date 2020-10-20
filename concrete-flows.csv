@@ -1,0 +1,2078 @@
+,flow,category,amount
+0,Phenol,"('water', 'ocean')",7.288149956576013e-09
+1,"Solids, inorganic","('water', 'ground-')",1.0635475881067995e-05
+2,Prothioconazol,"('water', 'surface water')",3.921377572980119e-26
+3,Azinphos-methyl,"('soil', 'agricultural')",0.0
+4,Monochloroethane,"('water', 'surface water')",0.0
+5,Thiobencarb,"('soil', 'agricultural')",5.377866070059268e-14
+6,Elemental carbon,"('water', 'ground-')",2.2963689078666202e-10
+7,m-Xylene,"('air', 'non-urban air or from high stacks')",1.084062533369288e-13
+8,"Transformation, to dump site","('natural resource', 'land')",8.145842180462103e-07
+9,Iodine-131,"('water', 'surface water')",5.369446450150744e-07
+10,Dinitrogen tetroxide,"('air',)",7.329862319709006e-13
+11,Hydrogen sulfide,"('air', 'low population density, long-term')",7.297861150129222e-10
+12,Phosphorus,"('water', 'ground-')",6.263346722036723e-11
+13,"Dibenz(a,h)anthracene","('air',)",1.2762397511580475e-14
+14,"Benzene, ethyl-","('air',)",1.1346313776618313e-09
+15,Radium-226,"('air',)",1.6135463785585922e-09
+16,Cyanide,"('water',)",1.807547113778567e-09
+17,Bromate,"('water', 'surface water')",4.00009706007693e-09
+18,Carbon disulfide,"('air', 'urban air close to ground')",4.094002245782441e-13
+19,Beryllium,"('water', 'ground-, long-term')",5.1926668261696896e-08
+20,Barium,"('air',)",1.2270957784692214e-07
+21,Radon-220,"('air', 'urban air close to ground')",9.349568685228251e-07
+22,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'non-urban air or from high stacks')",3.216854242512304e-15
+23,Magnesium,"('water', 'ground-, long-term')",0.0002347877203980944
+24,"Hydrocarbons, unspecified","('water', 'surface water')",9.382528445996699e-09
+25,Beryllium,"('air', 'low population density, long-term')",1.1093042525514325e-11
+26,Uranium-238,"('air', 'urban air close to ground')",1.3899118209039724e-07
+27,Aluminium,"('water', 'ground-')",5.0214792126540664e-08
+28,Hydrogen peroxide,"('water', 'surface water')",1.2527315979359423e-10
+29,Acetamiprid,"('soil', 'agricultural')",0.0
+30,Dinitrogen monoxide,"('air', 'non-urban air or from high stacks')",2.970169005905848e-07
+31,Phosphorus,"('water', 'ocean')",1.3057688107589887e-09
+32,Diquat,"('soil', 'agricultural')",8.150879943239543e-14
+33,"Transformation, from dump site, residual material landfill","('natural resource', 'land')",1.2408925539189977e-07
+34,Oxydemeton-methyl,"('soil', 'agricultural')",8.706938151842561e-16
+35,Mecoprop-P,"('soil', 'agricultural')",3.959820148151565e-15
+36,t-Butylamine,"('water', 'surface water')",6.646032485599713e-14
+37,Copper,"('air', 'low population density, long-term')",8.253675692092317e-10
+38,"Transformation, to pasture, man made, extensive","('natural resource', 'land')",9.436091769745331e-15
+39,Chlorothalonil,"('soil', 'agricultural')",1.3052434287072776e-10
+40,Butene,"('water', 'surface water')",5.052290277059413e-11
+41,Trinexapac-ethyl,"('soil', 'agricultural')",4.234726809524208e-15
+42,"Vanadium, ion","('water', 'surface water')",1.5896573811149085e-09
+43,"Tin, 79% in cassiterite, 0.1% in crude ore, in ground","('natural resource', 'in ground')",1.968499267948825e-06
+44,Boron,"('soil', 'industrial')",2.632462201711827e-09
+45,Metolachlor,"('water', 'surface water')",8.523118574671875e-18
+46,Water,"('water', 'ground-')",1.7206175288994146e-05
+47,Bromine,"('water', 'ground-')",1.5653083006792312e-09
+48,Titanium,"('air', 'low population density, long-term')",5.967885005548036e-09
+49,Desmedipham,"('soil', 'agricultural')",1.1911463787685232e-16
+50,"Methane, dichloro-, HCC-30","('air',)",2.2960658568593268e-10
+51,"Lanthanum, 7.2% in bastnasite, 0.72% in crude ore, in ground","('natural resource', 'in ground')",1.8402523049361393e-14
+52,Cesium-137,"('water', 'ocean')",1.2943922951693394e-05
+53,"Nitrogen, organic bound","('water',)",9.958013580746152e-16
+54,Xenon-137,"('air', 'non-urban air or from high stacks')",1.8701231491625876e-05
+55,Radium-228,"('air', 'urban air close to ground')",6.722444162528608e-07
+56,Carfentrazone-ethyl,"('air', 'non-urban air or from high stacks')",6.316622986982982e-15
+57,Metsulfuron-methyl,"('soil', 'agricultural')",2.9384520321455325e-12
+58,Thorium-230,"('water', 'surface water')",6.208574884147516e-05
+59,Acetonitrile,"('water', 'surface water')",2.0768699620286035e-14
+60,Chromium VI,"('water', 'ground-, long-term')",5.690702872725283e-07
+61,Methyl pentane,"('water', 'surface water')",0.0
+62,Diuron,"('soil', 'agricultural')",2.04735879299647e-12
+63,Boron,"('soil',)",1.136022392755947e-09
+64,Radium-226,"('water', 'surface water')",0.00027358793318297186
+65,Strontium,"('air', 'urban air close to ground')",2.010017406178991e-09
+66,Titanium,"('air', 'urban air close to ground')",4.0346803113355095e-09
+67,Diisobutyl ketone,"('water', 'surface water')",0.0
+68,Barium-140,"('water', 'surface water')",9.84658973113202e-09
+69,Glutaraldehyde,"('water', 'ocean')",8.636643190863223e-11
+70,Ethylene oxide,"('air', 'urban air close to ground')",3.5017068321599356e-10
+71,Formic acid,"('air', 'urban air close to ground')",6.49077928157029e-12
+72,Silicon,"('soil',)",6.410741955427186e-07
+73,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'low population density, long-term')",6.764151086026815e-20
+74,Sulfate,"('water', 'ground-, long-term')",0.0015422702379848427
+75,"Hydrocarbons, aliphatic, alkanes, unspecified","('air',)",3.0912256861828736e-07
+76,Triclopyr,"('soil', 'agricultural')",6.843760191080619e-12
+77,Dichlorprop-P,"('soil', 'agricultural')",3.733666437735445e-15
+78,"Iron, ion","('water', 'ground-')",4.841542685194522e-06
+79,"BOD5, Biological Oxygen Demand","('water', 'ground-')",6.718678810311854e-08
+80,Ametryn,"('soil', 'agricultural')",0.0
+81,Silicon,"('soil', 'industrial')",1.6435608208991808e-07
+82,Silicon tetrachloride,"('air', 'urban air close to ground')",0.0
+83,"Stibnite, in ground","('natural resource', 'in ground')",1.261387723101144e-12
+84,Uranium-238,"('water', 'surface water')",2.0061371370484254e-06
+85,Sulfur,"('soil',)",1.3950079583977403e-07
+86,Thorium-232,"('air', 'urban air close to ground')",4.682963779297276e-08
+87,Argon-41,"('air', 'non-urban air or from high stacks')",1.1998243441383714e-05
+88,Pyrimethanil,"('soil', 'agricultural')",0.0
+89,"Transformation, from forest, secondary (non-use)","('natural resource', 'land')",1.0088077103929746e-07
+90,Dimethyldichlorosilane,"('air',)",0.0
+91,"2,4-DB","('water', 'ground-')",7.522550828083095e-22
+92,Flupyrsulfuron-methyl,"('soil', 'agricultural')",6.6303416663951154e-18
+93,Mandipropamid,"('soil', 'agricultural')",0.0
+94,"Olivine, in ground","('natural resource', 'in ground')",4.4496851102248395e-10
+95,"BOD5, Biological Oxygen Demand","('water', 'ocean')",9.787196877211251e-06
+96,Florasulam,"('soil', 'agricultural')",4.633092678493518e-18
+97,Helium,"('air', 'non-urban air or from high stacks')",1.364865102167898e-08
+98,Dimethenamid,"('soil', 'agricultural')",1.1399558168111741e-14
+99,"Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'urban air close to ground')",8.147248706929605e-08
+100,Carbon,"('soil',)",3.952533746749289e-08
+101,"Zinc, ion","('water', 'surface water')",4.226837694044093e-08
+102,Methyl acetate,"('air', 'urban air close to ground')",3.537251515125653e-15
+103,"Neodymium, 4% in bastnasite, 0.4% in crude ore, in ground","('natural resource', 'in ground')",1.0121387579247687e-14
+104,Urea,"('water', 'surface water')",5.258682107921816e-14
+105,Cyanide,"('water', 'ocean')",7.308784895865096e-10
+106,"Gold, Au 9.7E-5%, Ag 7.6E-5%, in ore, in ground","('natural resource', 'in ground')",1.1175799583353148e-12
+107,"Toluene, 2-chloro","('water', 'surface water')",1.8689234288805167e-12
+108,Selenium,"('water', 'ground-')",1.209345598497685e-09
+109,"Methane, dichlorodifluoro-, CFC-12","('air', 'non-urban air or from high stacks')",4.988051626330268e-14
+110,Ethene,"('air',)",8.493684496416089e-13
+111,Lambda-cyhalothrin,"('water', 'ground-')",4.4596626450527e-27
+112,"Aldehydes, unspecified","('air',)",3.07622212588822e-11
+113,Barium,"('water', 'ocean')",1.753642485207645e-08
+114,"Occupation, forest, intensive","('natural resource', 'land')",0.008238083297027817
+115,Atrazine,"('soil', 'agricultural')",4.448040980583783e-12
+116,"2,4-D ester","('water', 'ground-')",2.5919945400764877e-21
+117,"Transformation, to pasture, man made","('natural resource', 'land')",6.608622041015827e-09
+118,Paraquat,"('air', 'non-urban air or from high stacks')",4.0540825584745863e-13
+119,Norflurazon,"('soil', 'agricultural')",0.0
+120,Propiconazole,"('water', 'surface water')",6.153178703259843e-26
+121,"Wood, unspecified, standing","('natural resource', 'biotic')",3.593167000306173e-12
+122,"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","('air', 'non-urban air or from high stacks')",7.744130436491872e-10
+123,"Transformation, to urban/industrial fallow (non-use)","('natural resource', 'land')",4.747653400498572e-11
+124,Thidiazuron,"('soil', 'agricultural')",5.6451092037315513e-14
+125,Sodium,"('water',)",0.0
+126,Methyl parathion,"('air', 'non-urban air or from high stacks')",7.780218532843822e-14
+127,"Transformation, to heterogeneous, agricultural","('natural resource', 'land')",2.5162129537487885e-07
+128,Acenaphthene,"('air',)",5.953186764493431e-12
+129,Fludioxonil,"('soil', 'agricultural')",8.407776469847016e-14
+130,Antimony,"('air', 'low population density, long-term')",8.397949566758305e-12
+131,Propane,"('air', 'non-urban air or from high stacks')",8.533351280386148e-08
+132,2-Methyl-2-butene,"('water', 'surface water')",7.527985179872626e-17
+133,"Coal, brown, in ground","('natural resource', 'in ground')",0.0029498686248428455
+134,"NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'non-urban air or from high stacks')",1.4081056172619087e-05
+135,Dimethylamine,"('air',)",0.0
+136,Lead-210,"('air', 'urban air close to ground')",6.457778201423609e-07
+137,"Occupation, unspecified","('natural resource', 'land')",5.036332763984155e-08
+138,Chrysene,"('air',)",2.5062604977390183e-15
+139,Beryllium,"('air', 'non-urban air or from high stacks')",1.9698097359827254e-11
+140,"Methane, tetrachloro-, R-10","('air',)",3.609433863557853e-14
+141,"Pesticides, unspecified","('soil', 'agricultural')",2.924295772448169e-11
+142,Organic carbon,"('soil',)",5.431094774641806e-10
+143,"Gold, Au 4.3E-4%, in ore, in ground","('natural resource', 'in ground')",8.048199452205491e-12
+144,MSMA,"('soil', 'agricultural')",5.765556822498127e-13
+145,Fluorine,"('air',)",1.9535067264994805e-12
+146,Dicamba,"('air', 'non-urban air or from high stacks')",3.854014612068781e-14
+147,Triadimenol,"('soil', 'agricultural')",5.095214710876891e-16
+148,Aluminium,"('soil',)",3.9322146210080294e-07
+149,"Transformation, from seabed, unspecified","('natural resource', 'land')",1.223011906603534e-06
+150,Chromium,"('air', 'urban air close to ground')",6.42656443175476e-10
+151,Propargite,"('soil', 'agricultural')",0.0
+152,Clodinafop-propargyl,"('soil', 'agricultural')",1.0112294631218835e-15
+153,Lead-210,"('air', 'non-urban air or from high stacks')",3.7573958345194105e-06
+154,Zinc,"('air', 'low population density, long-term')",8.580247874348519e-10
+155,Benzene,"('air', 'non-urban air or from high stacks')",7.219480034146558e-07
+156,"Hydrogen-3, Tritium","('air', 'non-urban air or from high stacks')",0.0009696666122098549
+157,Propene,"('air', 'non-urban air or from high stacks')",1.376927098956291e-09
+158,Bromine,"('air',)",2.752133384297313e-10
+159,Ozone,"('air',)",1.3913421457280973e-07
+160,Chlorine,"('water', 'ground-')",9.464494781216796e-09
+161,Acetaldehyde,"('water', 'surface water')",1.2027229498060208e-09
+162,Methylamine,"('air',)",1.2541034757458022e-13
+163,Toluene,"('water', 'surface water')",4.4227585425283094e-08
+164,Sodium,"('air', 'low population density, long-term')",6.81207800409596e-09
+165,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil',)",2.0928440488173006e-17
+166,Tribenuron,"('soil', 'agricultural')",4.6919550587347306e-17
+167,Helium,"('air',)",7.14847487101265e-11
+168,Cobalt-60,"('water', 'surface water')",2.973387133871332e-06
+169,Sodium,"('air', 'urban air close to ground')",2.572448814000413e-08
+170,"Occupation, traffic area, rail/road embankment","('natural resource', 'land')",0.0003236487606176749
+171,"Phosphorus, 18% in apatite, 4% in crude ore, in ground","('natural resource', 'in ground')",5.824482605057883e-07
+172,4-Methyl-2-pentanone,"('air', 'urban air close to ground')",0.0
+173,"Oils, non-fossil","('soil', 'industrial')",4.9492779266518835e-21
+174,"Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore, in ground","('natural resource', 'in ground')",3.6444798092719327e-06
+175,"Chloride, ion","('water',)",3.8612868313039774e-08
+176,"Titanium, ion","('water', 'ground-')",7.303382847795713e-09
+177,Nitrogen,"('water',)",1.5621899194780375e-11
+178,"Benzene, hexachloro-","('air',)",2.5838392521865053e-11
+179,Metolachlor,"('soil', 'agricultural')",1.6870225267857116e-10
+180,"Silver, Ag 4.6E-5%, Au 1.3E-4%, in ore, in ground","('natural resource', 'in ground')",4.9349816406791675e-12
+181,Potassium,"('air', 'low population density, long-term')",1.5395269910854666e-08
+182,Manganese,"('water', 'ocean')",1.4644457445085807e-09
+183,Sulfuric acid,"('soil', 'agricultural')",1.2109077720185487e-14
+184,Technetium-99m,"('water', 'surface water')",8.424512913273827e-08
+185,"Particulates, > 2.5 um, and < 10um","('air', 'non-urban air or from high stacks')",1.9008534008508228e-05
+186,Bifenox,"('soil', 'agricultural')",7.334146650725414e-16
+187,Cumene,"('water',)",4.823782868402249e-08
+188,Selenium,"('water', 'ocean')",5.050617960809496e-11
+189,"Transformation, from forest, intensive","('natural resource', 'land')",9.009523792525994e-05
+190,Monobutyltin,"('water', 'ocean')",9.311833872140621e-29
+191,Thallium,"('air', 'urban air close to ground')",1.6092637062555207e-11
+192,Arsine,"('air', 'urban air close to ground')",1.0886132400254045e-16
+193,Hexazinone,"('soil', 'agricultural')",0.0
+194,"Particulates, > 2.5 um, and < 10um","('air', 'low population density, long-term')",2.2324327266450397e-06
+195,"Praseodymium, 0.42% in bastnasite, 0.042% in crude ore, in ground","('natural resource', 'in ground')",1.0739186984219397e-15
+196,Uranium,"('air', 'non-urban air or from high stacks')",4.819893929907794e-14
+197,Clopyralid,"('soil', 'agricultural')",1.319843153717541e-15
+198,Barium,"('air', 'non-urban air or from high stacks')",3.5351948632957186e-09
+199,"Methane, bromotrifluoro-, Halon 1301","('air', 'non-urban air or from high stacks')",3.982951587472282e-10
+200,"Suspended solids, unspecified","('water', 'surface water')",1.2105356983244018e-06
+201,Phosphorus,"('air',)",4.145994699314648e-12
+202,Potassium,"('air', 'urban air close to ground')",1.4397895172394345e-07
+203,Strontium,"('soil', 'agricultural')",1.9325712506993023e-11
+204,"Particulates, < 2.5 um","('air', 'urban air close to ground')",2.5456228139990143e-06
+205,Oxyfluorfen,"('soil', 'agricultural')",0.0
+206,Polonium-210,"('water', 'ocean')",2.6970705272571326e-07
+207,"Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore, in ground","('natural resource', 'in ground')",3.2781124880475507e-06
+208,Magnesium,"('air', 'urban air close to ground')",4.1026601289188135e-08
+209,"Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","('natural resource', 'in ground')",1.8298966490555935e-11
+210,Ethylene glycol monoethyl ether,"('air', 'urban air close to ground')",0.0
+211,"Methane, fossil","('air',)",3.1036016336992178e-06
+212,Sodium chlorate,"('water', 'ground-')",1.324204181148443e-13
+213,Clethodim,"('air', 'non-urban air or from high stacks')",3.40013569590783e-13
+214,Fluoranthene,"('water', 'surface water')",2.008053291161228e-11
+215,"Nickel, ion","('water',)",4.8333433012730736e-09
+216,"Water, turbine use, unspecified natural origin","('natural resource', 'in water')",0.29690425805212156
+217,Prothioconazol,"('air', 'non-urban air or from high stacks')",2.4381996526322233e-23
+218,Phosphorus,"('air', 'non-urban air or from high stacks')",6.198866625041344e-11
+219,Vanadium,"('soil',)",5.158970219726561e-10
+220,Cumene,"('air', 'urban air close to ground')",4.136435301605798e-08
+221,"Hydrogen-3, Tritium","('water', 'surface water')",0.02272470775023505
+222,Imazaquin,"('soil', 'agricultural')",4.134852746224734e-15
+223,Uranium alpha,"('air', 'non-urban air or from high stacks')",1.7426769659793455e-06
+224,Permethrin,"('air', 'non-urban air or from high stacks')",6.346790018435728e-14
+225,Pyraclostrobin,"('water', 'ground-')",6.348216798752335e-20
+226,Antimony-124,"('air', 'non-urban air or from high stacks')",5.7719644005020894e-12
+227,Selenium,"('air', 'lower stratosphere + upper troposphere')",1.7387623514513237e-18
+228,Ammonia,"('air', 'urban air close to ground')",1.7829454708774914e-07
+229,Acifluorfen,"('air', 'non-urban air or from high stacks')",6.881041562030149e-14
+230,"Hydrocarbons, aromatic","('water', 'ocean')",1.3701065493241134e-08
+231,"Sodium, ion","('water',)",8.673758950513722e-06
+232,"Sodium, ion","('water', 'ocean')",7.964544977093181e-06
+233,Ethylene oxide,"('water', 'surface water')",3.896978878100229e-11
+234,Silicon,"('air', 'low population density, long-term')",1.9457455926713932e-08
+235,"Dolomite, in ground","('natural resource', 'in ground')",1.2412573122111717e-05
+236,"Particulates, > 10 um","('air', 'low population density, long-term')",3.7206664809487165e-06
+237,Thallium,"('air',)",8.856758715440604e-10
+238,"Calcium, ion","('water', 'ground-, long-term')",0.00046693972903193024
+239,Ioxynil,"('soil', 'agricultural')",7.382555073359773e-15
+240,Benzal chloride,"('water', 'surface water')",0.0
+241,Chloride,"('water', 'ground-, long-term')",3.179483429456016e-05
+242,Thallium,"('air', 'non-urban air or from high stacks')",9.910571663422558e-13
+243,Hydrogen sulfide,"('air', 'non-urban air or from high stacks')",4.0846628372800563e-08
+244,Nitrogen oxides,"('air', 'lower stratosphere + upper troposphere')",2.9130390247219426e-09
+245,Propane,"('air',)",1.7308906551653047e-09
+246,Chloroform,"('air', 'non-urban air or from high stacks')",4.84082950482845e-11
+247,Fosetyl-aluminium,"('soil', 'agricultural')",0.0
+248,"Occupation, pasture, man made, intensive","('natural resource', 'land')",4.8933423403308515e-08
+249,Phenol,"('water',)",5.226232669169878e-10
+250,"Gold, Au 4.9E-5%, in ore, in ground","('natural resource', 'in ground')",4.036733679901346e-11
+251,Paraquat,"('soil', 'agricultural')",1.32689358132802e-12
+252,Imazaquin,"('air', 'non-urban air or from high stacks')",9.648638929772253e-14
+253,Fenbuconazole,"('soil', 'agricultural')",2.1468220399515087e-16
+254,Acetone,"('water',)",7.807478939865812e-12
+255,"Nickel, 1.98% in silicates, 1.04% in crude ore, in ground","('natural resource', 'in ground')",3.0421315091437387e-05
+256,Toluene,"('air', 'urban air close to ground')",1.4226929204765907e-07
+257,"Copper, ion","('water', 'ocean')",2.083137579279528e-10
+258,"Cadmium, ion","('water', 'ground-')",3.6811500914448077e-10
+259,"Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","('natural resource', 'in ground')",3.210827609374717e-11
+260,Antimony,"('air', 'urban air close to ground')",4.2101923952733615e-11
+261,"Transformation, from traffic area, road network","('natural resource', 'land')",9.898136212268839e-23
+262,Metaldehyde,"('soil', 'agricultural')",5.416381008649073e-14
+263,Ethylene oxide,"('air', 'non-urban air or from high stacks')",8.607304253878105e-15
+264,"Transformation, to cropland fallow (non-use)","('natural resource', 'land')",4.797060774649401e-08
+265,"Methane, bromo-, Halon 1001","('air',)",1.21408234956384e-16
+266,Potassium-40,"('air', 'non-urban air or from high stacks')",1.2588818501842559e-06
+267,Iron,"('air',)",6.909550869441042e-07
+268,Chlorsulfuron,"('soil', 'agricultural')",6.83335660076302e-17
+269,Monoethanolamine,"('air', 'urban air close to ground')",2.4968804685341458e-09
+270,Sethoxydim,"('soil', 'agricultural')",9.22383497310313e-15
+271,Cadmium,"('soil',)",8.844420840034784e-11
+272,Ammonium carbonate,"('air', 'urban air close to ground')",6.788634464112636e-12
+273,Bentazone,"('water', 'surface water')",2.7275065292174033e-18
+274,Benzal chloride,"('air', 'urban air close to ground')",0.0
+275,Ethoprop,"('soil', 'agricultural')",0.0
+276,"Hydrocarbons, aromatic","('water', 'surface water')",2.0422453865202464e-07
+277,Hydrogen peroxide,"('water',)",0.0
+278,Folpet,"('soil', 'agricultural')",0.0
+279,Scandium,"('air', 'low population density, long-term')",3.0983037022866053e-10
+280,Napropamide,"('soil', 'agricultural')",8.02167151983792e-14
+281,Radium-228,"('water', 'surface water')",3.8919274880703504e-05
+282,3-Methyl-1-butanol,"('water', 'surface water')",0.0
+283,"Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","('natural resource', 'in ground')",4.305975598867811e-11
+284,"Volume occupied, final repository for low-active radioactive waste","('natural resource', 'in ground')",1.5097687467298693e-09
+285,"Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore, in ground","('natural resource', 'in ground')",6.5761913118253015e-09
+286,"2,4-DB","('air', 'non-urban air or from high stacks')",1.778230844247733e-21
+287,Thorium-232,"('air',)",4.0455942488780677e-10
+288,"Occupation, permanent crop, irrigated","('natural resource', 'land')",1.8916979548264253e-06
+289,"DOC, Dissolved Organic Carbon","('water',)",4.254215865792829e-07
+290,Butane,"('air', 'urban air close to ground')",4.713589747164831e-07
+291,"Fish, pelagic, in ocean","('natural resource', 'in water')",1.1538279413308077e-19
+292,Phosphate,"('water', 'ground-, long-term')",5.204932990272186e-05
+293,Iodine-131,"('air', 'non-urban air or from high stacks')",2.739108844282969e-06
+294,"DOC, Dissolved Organic Carbon","('water', 'surface water')",2.2016582689784956e-05
+295,Ethene,"('air', 'non-urban air or from high stacks')",7.821290174626525e-09
+296,Propanal,"('air', 'urban air close to ground')",8.79038668763498e-12
+297,"Nickel, ion","('water', 'surface water')",5.131664290698748e-09
+298,Phenanthrene,"('air',)",2.9254993646400265e-12
+299,Thallium,"('soil',)",3.995475190230845e-12
+300,Chlorotoluron,"('soil', 'agricultural')",2.378744258637457e-15
+301,Phosphoric acid,"('water',)",0.0
+302,Dibutyltin,"('water', 'ocean')",5.406871229020058e-31
+303,"Methane, bromo-, Halon 1001","('air', 'urban air close to ground')",4.880820836714481e-25
+304,Tungsten,"('air', 'non-urban air or from high stacks')",7.662980255105155e-14
+305,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","('air',)",1.5005425788863456e-12
+306,"Cerium, 24% in bastnasite, 2.4% in crude ore, in ground","('natural resource', 'in ground')",6.138555977054218e-14
+307,Spinosad,"('soil', 'agricultural')",1.1192118789721251e-23
+308,Chlorosulfonic acid,"('water', 'surface water')",7.552384864135074e-14
+309,"Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'non-urban air or from high stacks')",2.858362936234343e-10
+310,Iodosulfuron-methyl-sodium,"('soil', 'agricultural')",4.137325342959878e-18
+311,2-Methyl-1-propanol,"('air', 'urban air close to ground')",5.255699447652501e-14
+312,"Hydrocarbons, aromatic","('air', 'non-urban air or from high stacks')",1.6098573007871807e-09
+313,Nickel,"('soil', 'agricultural')",9.431133057956494e-11
+314,"Transformation, from cropland fallow (non-use)","('natural resource', 'land')",1.3548425421154752e-08
+315,"Carbon dioxide, fossil","('air', 'lower stratosphere + upper troposphere')",5.477082890760472e-10
+316,4-Methyl-2-pentanol,"('water', 'surface water')",4.728443470108096e-19
+317,Propoxycarbazone-sodium (prop),"('soil', 'agricultural')",2.853351820601848e-17
+318,"Cadmium, ion","('water',)",7.969842529191587e-10
+319,Uranium-238,"('water', 'ground-')",4.6423073668274063e-10
+320,2-Methyl pentane,"('air', 'urban air close to ground')",7.373825362212829e-11
+321,Uranium-238,"('water', 'ocean')",9.067074861807792e-08
+322,Linuron,"('soil', 'agricultural')",2.2967660554119923e-11
+323,"Chrysotile, in ground","('natural resource', 'in ground')",5.564962396146009e-10
+324,Monophenyltin,"('water', 'ocean')",1.021297863127847e-31
+325,Xylene,"('air', 'non-urban air or from high stacks')",5.4788432572500814e-08
+326,"Occupation, annual crop, irrigated, intensive","('natural resource', 'land')",7.006782641831634e-10
+327,Tin,"('air', 'low population density, long-term')",2.402509658404578e-11
+328,"Transformation, from dump site, inert material landfill","('natural resource', 'land')",9.12025717043184e-07
+329,Hydrogen chloride,"('air', 'low population density, long-term')",6.1411080472352356e-09
+330,"Volume occupied, reservoir","('natural resource', 'in water')",0.0006551530210752383
+331,"Insecticides, unspecified","('soil', 'agricultural')",1.397689583312312e-20
+332,"Transformation, to permanent crop, irrigated","('natural resource', 'land')",4.049762531564632e-08
+333,Benzaldehyde,"('water',)",0.0
+334,"Zinc, ion","('water', 'ground-, long-term')",8.05174415895766e-06
+335,"Radioactive species, other beta emitters","('air', 'urban air close to ground')",1.9468209807945066e-05
+336,"Methane, from soil or biomass stock","('air', 'non-urban air or from high stacks')",6.321459712083635e-09
+337,"strontium, in ground","('natural resource', 'in ground')",8.276237946684418e-09
+338,Styrene,"('air',)",9.680674137181816e-09
+339,"Benzene, ethyl-","('water',)",7.364151978193136e-11
+340,Dichromate,"('water', 'surface water')",2.9523957124933702e-12
+341,Polonium-210,"('air', 'urban air close to ground')",1.1816426818301958e-06
+342,Chromium-51,"('water', 'surface water')",7.294671672396092e-07
+343,Arsenic,"('air', 'low population density, long-term')",4.6293822762524793e-10
+344,Cyfluthrin,"('soil', 'agricultural')",5.168125520457272e-14
+345,Bifenthrin,"('soil', 'agricultural')",4.802635255735326e-16
+346,Platinum,"('air', 'urban air close to ground')",1.6751596448631403e-18
+347,Bromine,"('air', 'urban air close to ground')",1.359693236729265e-09
+348,Silver-110,"('air', 'non-urban air or from high stacks')",9.07778338538154e-12
+349,Formaldehyde,"('air', 'urban air close to ground')",1.0385339611629215e-07
+350,"Water, salt, sole","('natural resource', 'in water')",4.997571258646351e-06
+351,"Zirconium, 50% in zircon, 0.39% in crude ore, in ground","('natural resource', 'in ground')",2.1172397352468808e-07
+352,"Europium, 0.06% in bastnasite, 0.006% in crude ore, in ground","('natural resource', 'in ground')",1.5379250616815425e-16
+353,MCPB,"('air', 'non-urban air or from high stacks')",1.6026907163160896e-21
+354,"Solids, inorganic","('water', 'surface water')",9.729723242501907e-07
+355,Dinitrogen monoxide,"('air', 'low population density, long-term')",7.70586309358015e-12
+356,"Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore, in ground","('natural resource', 'in ground')",9.518667538058783e-08
+357,Fluoride,"('soil',)",2.105184753111403e-09
+358,Cerium-144,"('water', 'surface water')",1.3979206679822573e-09
+359,Thorium-228,"('air', 'non-urban air or from high stacks')",1.8125951307642916e-07
+360,Flucarbazone sodium salt,"('soil', 'agricultural')",4.27079363780676e-18
+361,Chlorine,"('water',)",1.0633509023106013e-13
+362,Benzene,"('air', 'lower stratosphere + upper troposphere')",3.468839306184268e-15
+363,Chloramine,"('air', 'urban air close to ground')",1.926739399380202e-13
+364,Carbaryl,"('air', 'non-urban air or from high stacks')",5.74831888726839e-14
+365,Prohexadione-calcium,"('soil', 'agricultural')",5.146737747494637e-18
+366,"Sodium, ion","('water', 'surface water')",0.0001233290009392762
+367,Vinclozolin,"('soil', 'agricultural')",3.623580415120133e-15
+368,Lead,"('water', 'ground-, long-term')",1.8883067586264508e-07
+369,Water,"('water', 'surface water')",1.5942044246616713e-05
+370,Cypermethrin,"('air', 'non-urban air or from high stacks')",0.0
+371,"Energy, gross calorific value, in biomass","('natural resource', 'biotic')",0.04556629200115821
+372,Phorate,"('soil', 'agricultural')",0.0
+373,Manganese,"('air', 'urban air close to ground')",1.4291585532277779e-09
+374,Radium-226,"('water',)",1.0344293665574063e-06
+375,"Methane, chlorodifluoro-, HCFC-22","('air',)",9.919446111424372e-25
+376,Bromine,"('air', 'non-urban air or from high stacks')",1.7446518522444617e-08
+377,Iodide,"('water', 'surface water')",4.077312457408854e-08
+378,Ethylene oxide,"('air', 'lower stratosphere + upper troposphere')",3.176806898056141e-14
+379,"Vermiculite, in ground","('natural resource', 'in ground')",0.0
+380,"Benzene, ethyl-","('air', 'non-urban air or from high stacks')",4.130508806900654e-09
+381,"Iron, ion","('water', 'surface water')",8.821559557905299e-08
+382,"Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore, in ground","('natural resource', 'in ground')",3.046298961599833e-12
+383,Thallium,"('water', 'ground-, long-term')",1.2284059163268426e-08
+384,"TiO2, 54% in ilmenite, 18% in crude ore, in ground","('natural resource', 'in ground')",1.0842049674117674e-07
+385,Dimethylamine,"('air', 'urban air close to ground')",9.015969642526156e-15
+386,Hypochlorite,"('water',)",0.0
+387,"Transformation, from unspecified, natural (non-use)","('natural resource', 'land')",7.429955411142218e-10
+388,"Gas, natural, in ground","('natural resource', 'in ground')",0.0018176056510634526
+389,Permethrin,"('soil', 'agricultural')",2.960034515611512e-15
+390,Aluminium,"('soil', 'industrial')",2.31498254664762e-07
+391,"Ethane, 1,1,1-trichloro-, HCFC-140","('air', 'non-urban air or from high stacks')",9.883582543734263e-12
+392,Cadmium,"('soil', 'industrial')",4.071647102632868e-10
+393,Barium,"('soil',)",4.044951008177075e-09
+394,Ethane,"('air',)",5.222362400803418e-10
+395,"Carbon monoxide, fossil","('air', 'non-urban air or from high stacks')",1.971946667861985e-05
+396,Sulfosate,"('soil', 'agricultural')",2.3894227012911107e-12
+397,"Calcium, ion","('water', 'ocean')",8.737810212994081e-07
+398,"VOC, volatile organic compounds, unspecified origin","('air',)",1.0049585559296794e-15
+399,Butadiene,"('air', 'urban air close to ground')",6.9712234235303386e-15
+400,o-Nitrotoluene,"('air', 'urban air close to ground')",1.3191555812260655e-14
+401,"Methane, fossil","('air', 'lower stratosphere + upper troposphere')",8.693717644426035e-15
+402,Sodium,"('water', 'ground-')",1.1745911529054337e-08
+403,Cyprodinil,"('soil', 'agricultural')",1.1324361124023813e-12
+404,Thiram,"('soil', 'agricultural')",5.862632446008811e-12
+405,Silicon,"('water',)",0.0
+406,Mefenpyr-diethyl,"('soil', 'agricultural')",5.469941615032204e-21
+407,Methyl lactate,"('air', 'urban air close to ground')",5.985063763520382e-14
+408,Chromium VI,"('air', 'urban air close to ground')",2.986502960087687e-11
+409,"Benzene, ethyl-","('air', 'urban air close to ground')",7.09663899360983e-08
+410,Potassium-40,"('air',)",1.5377677734243807e-09
+411,"Potassium, ion","('water', 'ground-')",5.48838345524151e-07
+412,Borate,"('water', 'surface water')",3.4004167863585803e-12
+413,Quinoxyfen,"('soil', 'agricultural')",2.495240443132917e-16
+414,Aluminium,"('water',)",1.6724521154467455e-08
+415,Isoprene,"('air',)",8.613421589221165e-17
+416,Chlorpyrifos,"('air', 'non-urban air or from high stacks')",2.2927074323251633e-12
+417,Butyrolactone,"('water',)",5.7939057470647e-14
+418,Flufenacet,"('soil', 'agricultural')",2.6085576708537593e-15
+419,Toluene,"('water',)",1.2391858189115187e-09
+420,Phosphorus,"('air', 'urban air close to ground')",2.7521307422458707e-09
+421,"Sodium, ion","('water', 'ground-')",1.2780816539770662e-06
+422,Quinclorac,"('soil', 'agricultural')",4.1967700575679116e-15
+423,Kresoxim-methyl,"('soil', 'agricultural')",1.5137263371108296e-15
+424,Benfluralin,"('soil', 'agricultural')",0.0
+425,Trifluralin,"('soil', 'agricultural')",6.4392566955751474e-12
+426,Chloroacetic acid,"('water',)",0.0
+427,Nitrobenzene,"('air', 'urban air close to ground')",7.98251864130798e-11
+428,"Occupation, annual crop, irrigated","('natural resource', 'land')",3.3022381649729026e-07
+429,Sethoxydim,"('air', 'non-urban air or from high stacks')",5.071009302517272e-14
+430,"Ethane, 1,1,1-trichloro-, HCFC-140","('air',)",8.285291470987006e-17
+431,"Carbon dioxide, fossil","('air', 'non-urban air or from high stacks')",0.01176937696186037
+432,Bromine,"('water', 'surface water')",4.3252327041892393e-07
+433,"Ammonium, ion","('water', 'surface water')",6.757415679696074e-08
+434,Silicon,"('soil', 'agricultural')",1.0316109410982363e-07
+435,Ethylene,"('air',)",1.1115909548311486e-08
+436,Dicamba,"('water', 'ground-')",9.100611009501746e-19
+437,Mesosulfuron-methyl (prop),"('soil', 'agricultural')",2.2822718435901353e-17
+438,Lead,"('water', 'ground-')",3.3971650851256315e-09
+439,Phosphate,"('water', 'ground-')",1.3711125387486235e-05
+440,"Silver, ion","('water', 'ground-, long-term')",6.365116340778557e-09
+441,Carbonate,"('water', 'surface water')",1.701127513851273e-08
+442,Beryllium,"('air',)",1.4251279277792977e-11
+443,Nitrate,"('air', 'urban air close to ground')",9.213579404898012e-13
+444,Sodium hydroxide,"('air', 'urban air close to ground')",2.8982797868476524e-11
+445,Cobalt-60,"('air', 'non-urban air or from high stacks')",7.546012257295707e-10
+446,Xenon-135,"('air', 'non-urban air or from high stacks')",0.001013823399054887
+447,"Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore, in ground","('natural resource', 'in ground')",4.1563450075536523e-07
+448,Procymidone,"('soil', 'agricultural')",1.087085846073842e-14
+449,"Arsenic, ion","('water',)",3.5408627238841825e-10
+450,Zinc,"('soil',)",1.3839059865253609e-07
+451,Nitrite,"('water', 'surface water')",7.874535369245521e-10
+452,Thorium,"('air', 'non-urban air or from high stacks')",7.488244673286324e-14
+453,Thorium-234,"('air', 'non-urban air or from high stacks')",1.0136561540697403e-07
+454,Metolachlor,"('air', 'non-urban air or from high stacks')",1.5919999933919801e-12
+455,Strontium,"('water',)",4.260863798808932e-08
+456,Bromoxynil,"('soil', 'agricultural')",4.212953637531893e-15
+457,"PAH, polycyclic aromatic hydrocarbons","('air',)",7.36776177562063e-09
+458,Potassium-40,"('water', 'surface water')",7.605852537570707e-07
+459,Lambda-cyhalothrin,"('water', 'surface water')",1.1190154498530458e-29
+460,Radon-222,"('air', 'low population density, long-term')",3.3122860621482157
+461,Niobium-95,"('water', 'surface water')",1.4206432533662814e-08
+462,"Carbon monoxide, fossil","('air',)",0.0002259767759554389
+463,Phosmet,"('soil', 'agricultural')",0.0
+464,Cesium-137,"('water', 'surface water')",1.2548025082849184e-06
+465,Trifloxystrobin,"('water', 'surface water')",1.2077649994577547e-26
+466,"Carbon dioxide, in air","('natural resource', 'in air')",0.0040591221015003325
+467,"Indeno(1,2,3-cd)pyrene","('air',)",5.0175618577725785e-15
+468,Diethanolamine,"('water',)",1.7221117753470342e-12
+469,Scandium,"('water', 'ground-, long-term')",7.341130893814297e-08
+470,Ethyne,"('air', 'urban air close to ground')",6.125176774722705e-09
+471,Benzo(k)fluoranthene,"('water', 'surface water')",2.1323613558397385e-16
+472,"Aluminium, 24% in bauxite, 11% in crude ore, in ground","('natural resource', 'in ground')",8.773541697962046e-09
+473,"Energy, solar, converted","('natural resource', 'in air')",5.9717962696288136e-05
+474,Pymetrozine,"('soil', 'agricultural')",0.0
+475,Chromium,"('air',)",3.912513759021139e-09
+476,Nitrogen,"('soil', 'industrial')",8.21627306875447e-08
+477,"Oils, non-fossil","('water', 'surface water')",3.649668526293773e-10
+478,Alachlor,"('air', 'non-urban air or from high stacks')",4.869570314650108e-13
+479,"Occupation, seabed, drilling and mining","('natural resource', 'land')",1.1227636398755189e-06
+480,Thallium,"('soil', 'industrial')",3.881059832288891e-12
+481,Methanol,"('air',)",7.1474910150467044e-09
+482,Quinmerac,"('soil', 'agricultural')",0.0
+483,Cumene,"('air', 'non-urban air or from high stacks')",2.6898697277672956e-12
+484,Cobalt,"('water', 'ground-')",1.2381677340666702e-09
+485,Acrolein,"('air', 'non-urban air or from high stacks')",2.006899604465807e-10
+486,Uranium alpha,"('water', 'surface water')",2.8633118276228867e-05
+487,Propionic acid,"('air',)",1.3660481009447228e-14
+488,Formic acid,"('water', 'surface water')",1.7772343405852875e-14
+489,"Transformation, to river, artificial","('natural resource', 'land')",4.952562798582549e-07
+490,"PAH, polycyclic aromatic hydrocarbons","('water', 'surface water')",3.2729583383676983e-09
+491,Methanol,"('water', 'ocean')",2.180382825145699e-10
+492,"Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore, in ground","('natural resource', 'in ground')",1.3817307801277155e-11
+493,"Silver, Ag 1.8E-6%, in mixed ore, in ground","('natural resource', 'in ground')",1.025605555190197e-12
+494,"Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore, in ground","('natural resource', 'in ground')",8.628871186635042e-12
+495,"Transformation, from wetland, inland (non-use)","('natural resource', 'land')",2.4452639936171974e-11
+496,Radium-226,"('air', 'non-urban air or from high stacks')",2.020071403252221e-06
+497,Cumene,"('air',)",4.019596869911653e-18
+498,Chloride,"('soil', 'agricultural')",3.911656169418317e-09
+499,Acetic acid,"('water',)",0.0
+500,Acrylonitrile,"('water',)",0.0
+501,Manganese,"('soil',)",1.9006001043026733e-09
+502,"Sulfate, ion","('water',)",1.436225905114584e-10
+503,Silicon,"('air', 'non-urban air or from high stacks')",6.7159101253417326e-09
+504,Fluoride,"('water', 'ground-')",5.413426241543912e-08
+505,"Transformation, to dump site, inert material landfill","('natural resource', 'land')",9.12025717043184e-07
+506,Nitrate,"('water', 'ocean')",3.6080002042395326e-08
+507,Teflubenzuron,"('soil', 'agricultural')",3.979368635474916e-13
+508,Iodide,"('water', 'ground-')",1.444988334718798e-10
+509,"Transformation, to forest, secondary (non-use)","('natural resource', 'land')",1.1661584166832674e-22
+510,Lead,"('water',)",2.2700208062052503e-09
+511,Ethanol,"('water', 'surface water')",7.195661522922094e-10
+512,Silver,"('air', 'non-urban air or from high stacks')",3.4440622836710314e-13
+513,"Transformation, to industrial area","('natural resource', 'land')",8.237033406831593e-06
+514,"Carbon monoxide, non-fossil","('air',)",7.038477535625067e-10
+515,"Oils, non-fossil","('soil', 'forestry')",4.2349984003463214e-08
+516,"Acidity, unspecified","('water',)",1.6427723969139063e-10
+517,Tebupirimphos,"('soil', 'agricultural')",2.2413331068162685e-15
+518,Dichlorprop,"('water', 'surface water')",1.0708529525752758e-23
+519,Nitrogen,"('soil',)",1.2334436906057844e-09
+520,Nitrogen fluoride,"('air', 'urban air close to ground')",3.5648710895062396e-18
+521,Silver,"('soil', 'industrial')",8.324058623685991e-13
+522,Strontium,"('air', 'low population density, long-term')",3.428744522532079e-10
+523,Sulfur,"('water', 'ground-')",3.9981285553217025e-08
+524,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air', 'non-urban air or from high stacks')",2.889404105462712e-11
+525,Molybdenum,"('water', 'ocean')",3.36960262099452e-11
+526,Benzo(a)pyrene,"('air', 'non-urban air or from high stacks')",4.96768336014672e-09
+527,"Metamorphous rock, graphite containing, in ground","('natural resource', 'in ground')",7.612521209108679e-08
+528,Metalaxil,"('soil', 'agricultural')",1.0433126605777484e-12
+529,Magnesium,"('air',)",1.647946173761762e-11
+530,"Ammonium, ion","('water', 'ocean')",2.0914863327149242e-08
+531,Sulfite,"('water',)",0.0
+532,Indoxacarb,"('soil', 'agricultural')",0.0
+533,"Silver, ion","('water', 'ocean')",1.1862055120512408e-11
+534,Flumetsulam,"('soil', 'agricultural')",1.2538905101476433e-15
+535,Lenacil,"('soil', 'agricultural')",6.469721300601113e-17
+536,"Clay, bentonite, in ground","('natural resource', 'in ground')",3.22293824406567e-05
+537,"Transformation, to seabed, unspecified","('natural resource', 'land')",2.1988066339874595e-11
+538,Acetochlor,"('soil', 'agricultural')",1.3180582306213268e-13
+539,Buprofezin,"('soil', 'agricultural')",0.0
+540,Iodosulfuron,"('soil', 'agricultural')",1.244555574654976e-17
+541,"Transformation, to unspecified","('natural resource', 'land')",4.5014749311154874e-07
+542,"Transformation, to annual crop, non-irrigated, intensive","('natural resource', 'land')",6.152942393746804e-06
+543,Tebuconazole,"('soil', 'agricultural')",5.819926864506533e-14
+544,Krypton-85,"('air', 'non-urban air or from high stacks')",3.975530284144986e-05
+545,Acenaphthene,"('water', 'ocean')",1.2296997719574545e-13
+546,Benzo(k)fluoranthene,"('air',)",1.9639013780029784e-14
+547,Metribuzin,"('soil', 'agricultural')",9.749415726100514e-12
+548,Esfenvalerate,"('air', 'non-urban air or from high stacks')",7.175901224319936e-14
+549,Nitrogen,"('air',)",2.9112287096811805e-06
+550,"BOD5, Biological Oxygen Demand","('water', 'surface water')",7.121996508958683e-05
+551,Iron-59,"('water', 'surface water')",2.341134495571608e-06
+552,Iodine,"('air', 'urban air close to ground')",5.326894775851419e-10
+553,Silicon,"('water', 'ground-')",4.2042331142746883e-07
+554,Carbaryl,"('water', 'surface water')",1.2511975179720498e-23
+555,Picoxystrobin,"('soil', 'agricultural')",1.6114739596814847e-16
+556,Hydrogen chloride,"('air', 'lower stratosphere + upper troposphere')",1.4953348268189713e-16
+557,"Iodine, 0.03% in water","('natural resource', 'in water')",8.469344127893523e-11
+558,Ethylamine,"('air', 'urban air close to ground')",4.0299033694960337e-14
+559,Silver,"('soil',)",1.1186736056736307e-11
+560,Methyl ethyl ketone,"('air', 'urban air close to ground')",5.209209859077692e-09
+561,Mesotrione,"('soil', 'agricultural')",3.4686561210654116e-15
+562,Silver,"('air', 'urban air close to ground')",2.4817541524672875e-12
+563,Hydrogen fluoride,"('air',)",5.5049229336455366e-08
+564,Mercury,"('water',)",1.3667602359840264e-10
+565,Antimony-122,"('water', 'surface water')",2.6218261968764203e-09
+566,"Chromium, ion","('water', 'surface water')",7.716604645469497e-10
+567,Ethanol,"('air', 'non-urban air or from high stacks')",1.0533746812123393e-09
+568,Radium-226,"('water', 'ocean')",1.7806220911443064e-06
+569,Uranium-238,"('air', 'non-urban air or from high stacks')",1.1467788739153168e-06
+570,Nitrogen oxides,"('air',)",0.00020373229879987428
+571,Diflufenzopyr-sodium,"('soil', 'agricultural')",4.2689104161808065e-16
+572,"Transformation, from pasture, man made, intensive","('natural resource', 'land')",5.828509679744337e-09
+573,Beryllium,"('water', 'surface water')",1.1313473674683273e-11
+574,3-Methyl-1-butanol,"('air', 'urban air close to ground')",0.0
+575,"Copper, Cu 0.2%, in mixed ore, in ground","('natural resource', 'in ground')",3.798447890102732e-09
+576,Cobalt,"('water', 'surface water')",5.513620454599014e-10
+577,Chlorpyrifos,"('soil', 'agricultural')",1.6453284518010615e-11
+578,"Cadmium, ion","('water', 'surface water')",6.454280643011832e-10
+579,"Tin, ion","('water',)",8.595617844883599e-11
+580,Hydrogen sulfide,"('water', 'ground-, long-term')",3.3031830900746375e-07
+581,"NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'lower stratosphere + upper troposphere')",1.1666132446887557e-13
+582,Thorium-232,"('water', 'ground-')",2.5607111358784834e-16
+583,"Hydrocarbons, aliphatic, unsaturated","('air', 'non-urban air or from high stacks')",1.187692237152051e-08
+584,"Transformation, from annual crop, greenhouse","('natural resource', 'land')",0.0
+585,Chloride,"('water', 'ground-')",7.51213575654861e-05
+586,Manganese-54,"('air', 'non-urban air or from high stacks')",3.0109406068466605e-11
+587,Chromium,"('air', 'low population density, long-term')",1.2619989430083695e-13
+588,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air', 'low population density, long-term')",1.0218511875551186e-12
+589,Bitertanol,"('soil', 'agricultural')",1.6360875586191946e-17
+590,Beryllium,"('soil', 'industrial')",4.515484077236146e-12
+591,"Occupation, traffic area, rail network","('natural resource', 'land')",3.645352603882548e-05
+592,Chlorimuron-ethyl,"('air', 'non-urban air or from high stacks')",1.1492730504710027e-13
+593,Vanadium,"('air',)",2.3118766843788052e-09
+594,Piperonyl butoxide,"('soil', 'agricultural')",0.0
+595,"2,4-D","('air', 'non-urban air or from high stacks')",4.715814976017694e-12
+596,Cesium,"('water', 'ocean')",1.9770092803435312e-11
+597,Bromopropane,"('water',)",0.0
+598,Phosphate,"('water',)",1.8897793717500495e-13
+599,"Phenol, pentachloro-","('air',)",2.5995266300234525e-12
+600,Scandium,"('water', 'ground-')",3.1026313974424615e-10
+601,Acenaphthene,"('water', 'surface water')",7.182733816543011e-12
+602,Mineral oil,"('soil', 'agricultural')",0.0
+603,"Silver, Ag 5.4E-3%, in mixed ore, in ground","('natural resource', 'in ground')",1.0335729076842714e-10
+604,Uranium,"('air',)",1.7550633936098545e-16
+605,"Solids, inorganic","('water', 'ocean')",1.0560874596672089e-29
+606,Barite,"('water',)",1.1589640293524076e-07
+607,"Oils, unspecified","('soil', 'forestry')",2.7273811362159324e-05
+608,Cerium-141,"('water', 'surface water')",4.00964521341477e-09
+609,"Phenol, 2,4-dichloro","('air',)",3.23362510352476e-15
+610,Rubidium,"('water', 'ocean')",1.9770092523354916e-10
+611,"Occupation, urban, discontinuously built","('natural resource', 'land')",1.4763920916218185e-08
+612,2-Propanol,"('air',)",2.1900354986009237e-08
+613,Tributyltin compounds,"('water', 'ocean')",1.0231460395255349e-09
+614,"Gold, Au 1.4E-4%, in ore, in ground","('natural resource', 'in ground')",4.123542449951486e-11
+615,Formaldehyde,"('water',)",1.6631632713691956e-09
+616,"Occupation, river, artificial","('natural resource', 'land')",4.509440108193274e-05
+617,"2,4-D ester","('soil', 'agricultural')",8.447110664124436e-20
+618,Organic carbon,"('water', 'ground-')",5.431094774641806e-10
+619,"Occupation, annual crop, non-irrigated","('natural resource', 'land')",4.245749754240808e-09
+620,Aluminium hydroxide,"('water',)",1.0557677668705833e-13
+621,Sulfur hexafluoride,"('air',)",2.629118596582063e-09
+622,"Transformation, to annual crop, greenhouse","('natural resource', 'land')",0.0
+623,"VOC, volatile organic compounds, unspecified origin","('water', 'ocean')",6.91953258523536e-09
+624,Diethylamine,"('water', 'surface water')",2.791106667298051e-13
+625,Carbonate,"('water', 'ocean')",1.1938752238399018e-10
+626,Bensulfuron methyl ester,"('soil', 'agricultural')",1.1391707089476864e-15
+627,"Peat, in ground","('natural resource', 'biotic')",7.475683566798412e-06
+628,Selenium,"('soil',)",4.1820543350374476e-10
+629,Triethylene glycol,"('water',)",1.7734395165749218e-12
+630,Dimethoate,"('soil', 'agricultural')",8.608934184970644e-15
+631,"Carbon dioxide, non-fossil","('air', 'urban air close to ground')",0.0013327559429154733
+632,Mecoprop,"('soil', 'agricultural')",3.901272134559627e-15
+633,"Phenol, pentachloro-","('air', 'urban air close to ground')",5.312717531652033e-14
+634,Sodium,"('air', 'non-urban air or from high stacks')",1.0256238901169344e-09
+635,"Silver, ion","('water', 'surface water')",3.4406287730775433e-10
+636,"Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In, in ground","('natural resource', 'in ground')",8.250361916168259e-06
+637,"Kaolinite, 24% in crude ore, in ground","('natural resource', 'in ground')",3.62717675633925e-07
+638,Nitrite,"('water', 'ocean')",1.7526554235985294e-10
+639,Nitrate,"('water', 'ground-')",9.697134389805055e-07
+640,Prochloraz,"('soil', 'agricultural')",2.3657146593840873e-15
+641,Xenon-135m,"('air', 'non-urban air or from high stacks')",0.0005948648618304257
+642,Rubidium,"('water', 'surface water')",3.891927565249416e-09
+643,Fentin hydroxide,"('soil', 'agricultural')",0.0
+644,"Occupation, annual crop, non-irrigated, intensive","('natural resource', 'land')",3.1930494538192887e-06
+645,Xylene,"('water', 'ocean')",4.903708438728974e-09
+646,Molybdenum,"('air', 'non-urban air or from high stacks')",8.892089386602138e-11
+647,"2,2,4-Trimethyl pentane","('air',)",2.2525638359821325e-16
+648,"Cobalt, Co 5.0E-2%, in mixed ore, in ground","('natural resource', 'in ground')",2.8080875964342937e-10
+649,"Potassium, ion","('water',)",2.2839086799086695e-14
+650,Manganese-54,"('water', 'surface water')",1.9293996534158648e-07
+651,"Nickel, ion","('water', 'ground-, long-term')",2.1568132669738807e-06
+652,"PAH, polycyclic aromatic hydrocarbons","('soil',)",7.115310429246023e-11
+653,"Oils, unspecified","('water', 'surface water')",2.212153653503949e-05
+654,"Transformation, to urban, discontinuously built","('natural resource', 'land')",3.0446639686249507e-10
+655,"VOC, volatile organic compounds, unspecified origin","('water',)",1.2354308477832085e-10
+656,Dimethyl ether,"('water', 'surface water')",0.0
+657,Helium,"('air', 'urban air close to ground')",0.0
+658,"Benzene, ethyl-","('water', 'surface water')",9.34106919927674e-09
+659,Molybdenum-99,"('water', 'surface water')",3.6183237139010315e-09
+660,Monoethanolamine,"('water',)",1.3576958939928739e-12
+661,Tri-allate,"('soil', 'agricultural')",2.306263149489761e-16
+662,Terbacil,"('soil', 'agricultural')",0.0
+663,o-Xylene,"('water',)",1.7240489860547487e-11
+664,"Heat, waste","('water', 'surface water')",0.0013204368100551776
+665,"Methane, chlorodifluoro-, HCFC-22","('air', 'urban air close to ground')",3.064586214955222e-11
+666,Chromium,"('air', 'non-urban air or from high stacks')",1.5773886127890937e-07
+667,Cyclohexane,"('air', 'non-urban air or from high stacks')",0.0
+668,"VOC, volatile organic compounds, unspecified origin","('water', 'surface water')",1.3790107294152398e-07
+669,Fenoxaprop,"('soil', 'agricultural')",1.00639985421246e-13
+670,Metamitron,"('soil', 'agricultural')",3.368437662305389e-15
+671,Sodium-24,"('water', 'surface water')",3.1487521476349876e-08
+672,"Transformation, from dump site, sanitary landfill","('natural resource', 'land')",1.5931818631306482e-08
+673,Aluminium,"('soil', 'agricultural')",2.7036224453179538e-08
+674,"Iron, ion","('water',)",6.473899322565922e-07
+675,Zinc,"('soil', 'agricultural')",2.0789202551371164e-09
+676,Glyphosate,"('soil', 'agricultural')",1.536706984998948e-09
+677,"TiO2, 54% in ilmenite, 2.6% in crude ore, in ground","('natural resource', 'in ground')",1.4166824865403112e-06
+678,Phosphorus pentachloride,"('water',)",0.0
+679,Benz(a)anthracene,"('air',)",2.2960809565470337e-14
+680,"Actinides, radioactive, unspecified","('air', 'non-urban air or from high stacks')",1.0239308246235065e-06
+681,Titanium,"('soil', 'agricultural')",1.6869024272787819e-09
+682,Benzaldehyde,"('air',)",2.3682753005301005e-08
+683,Propanol,"('water', 'surface water')",9.07834410259312e-14
+684,"Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore, in ground","('natural resource', 'in ground')",2.0831908813559454e-08
+685,4-Methyl-2-pentanone,"('air', 'non-urban air or from high stacks')",3.3896158498323746e-15
+686,Phosphorus,"('soil', 'industrial')",3.041821416100407e-08
+687,Monocrotophos,"('soil', 'agricultural')",2.0909635621978543e-11
+688,Lead,"('air', 'non-urban air or from high stacks')",6.916836999613514e-08
+689,"DOC, Dissolved Organic Carbon","('water', 'ocean')",2.8028092434467013e-06
+690,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air', 'urban air close to ground')",4.432372439216008e-13
+691,Methomyl,"('soil', 'agricultural')",3.0092834592110277e-21
+692,"Silver, 0.007% in sulfide, Ag 0.004%, Pb, Zn, Cd, In, in ground","('natural resource', 'in ground')",1.2032995838219996e-08
+693,Quizalofop-P,"('soil', 'agricultural')",1.563786525032904e-15
+694,"Lead, Pb 0.014%, in mixed ore, in ground","('natural resource', 'in ground')",1.2918687222351451e-06
+695,"COD, Chemical Oxygen Demand","('water', 'ocean')",9.989148212050494e-06
+696,"Carbon monoxide, fossil","('air', 'lower stratosphere + upper troposphere')",6.433468983666847e-13
+697,"1,4-Butanediol","('water', 'surface water')",4.1486653634678194e-13
+698,Isopropylamine,"('air', 'urban air close to ground')",1.6770916848484906e-14
+699,Thorium-234,"('water', 'surface water')",7.335893753629023e-07
+700,"Spodumene, in ground","('natural resource', 'in ground')",1.1432413608142059e-11
+701,Fluorine,"('air', 'low population density, long-term')",5.274211721891903e-09
+702,Thallium,"('water', 'surface water')",2.3173599851091534e-11
+703,"Hydrocarbons, chlorinated","('air', 'non-urban air or from high stacks')",1.0009285727087112e-10
+704,m-Xylene,"('water',)",2.3668730091851054e-11
+705,Nitrate,"('air',)",1.3959923777729002e-08
+706,Hypochlorite,"('water', 'surface water')",2.119231006667081e-09
+707,Aclonifen,"('soil', 'agricultural')",4.0896144461920006e-16
+708,Benzene,"('air', 'urban air close to ground')",2.933197862942777e-07
+709,Toluene,"('air', 'non-urban air or from high stacks')",3.546206334483419e-08
+710,Propionic acid,"('air', 'non-urban air or from high stacks')",5.515101281680926e-10
+711,"Suspended solids, unspecified","('water',)",3.4072680567816917e-06
+712,Octaethylene glycol monododecyl ether,"('air',)",0.0
+713,Antimony-124,"('water', 'surface water')",2.7141112053733233e-06
+714,"Hydrocarbons, chlorinated","('air',)",4.305851705752955e-09
+715,"Occupation, dump site","('natural resource', 'land')",0.00012086116276985573
+716,"PAH, polycyclic aromatic hydrocarbons","('air', 'non-urban air or from high stacks')",7.0133892232425225e-09
+717,Dipropylamine,"('water', 'surface water')",1.6703087172691114e-13
+718,Nitrate,"('soil',)",2.733183244428366e-08
+719,"Transformation, to seabed, drilling and mining","('natural resource', 'land')",1.1227636398755189e-06
+720,Metolachlor,"('water', 'ground-')",6.350487462739397e-16
+721,Sulfosulfuron,"('soil', 'agricultural')",1.0249818676310481e-16
+722,Phosphorus,"('water', 'surface water')",6.369347292871842e-09
+723,Radium-224,"('water', 'ocean')",9.885046065349182e-07
+724,Molybdenum,"('soil',)",7.73406204637122e-11
+725,Nitrate,"('water',)",9.799611175566413e-10
+726,Fomesafen,"('air', 'non-urban air or from high stacks')",7.608946663178247e-13
+727,"Xenon, in air","('natural resource', 'in air')",9.281456066713497e-19
+728,Molybdenum,"('water', 'surface water')",7.664855781657005e-09
+729,Benz(a)anthracene,"('water', 'surface water')",3.8248635420409265e-15
+730,Xylene,"('air', 'urban air close to ground')",5.5763492181258525e-08
+731,1-Pentanol,"('water', 'surface water')",3.3474813393952686e-14
+732,Arsenic,"('air', 'urban air close to ground')",4.804550600512073e-10
+733,Bromoxynil,"('air', 'non-urban air or from high stacks')",3.2331417214853692e-21
+734,Styrene,"('air', 'urban air close to ground')",9.437740019317626e-08
+735,"Lithium, 0.15% in brine, in ground","('natural resource', 'in ground')",9.60490849023026e-12
+736,Scandium,"('air', 'non-urban air or from high stacks')",6.873254974273874e-13
+737,Boscalid,"('soil', 'agricultural')",4.1504105652958075e-23
+738,Bisphenol A,"('water',)",1.215845090648428e-08
+739,Sodium chlorate,"('air', 'urban air close to ground')",3.755660156700156e-11
+740,"Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'urban air close to ground')",1.5261813675756125e-09
+741,Methanol,"('water', 'surface water')",7.263006292817881e-10
+742,Aldrin,"('soil', 'agricultural')",1.5873189898781285e-12
+743,"Rhodium, Rh 1.6E-7%, in mixed ore, in ground","('natural resource', 'in ground')",9.021530346691978e-14
+744,Tribenuron-methyl,"('soil', 'agricultural')",2.4653412824381096e-16
+745,2-Aminopropanol,"('air', 'urban air close to ground')",8.284851519363327e-15
+746,Radium-228,"('air', 'non-urban air or from high stacks')",3.237045303889345e-07
+747,Selenium,"('air', 'low population density, long-term')",4.3494721372136965e-11
+748,Ammonia,"('air', 'low population density, long-term')",1.0742637754095172e-11
+749,Magnesium,"('water', 'ground-')",2.0385207416733774e-06
+750,"Transformation, from annual crop","('natural resource', 'land')",4.6120896678872485e-06
+751,Silicon,"('water', 'ocean')",3.956904235578705e-11
+752,"Vanadium, ion","('water', 'ground-, long-term')",3.645756522626425e-07
+753,Iodine-129,"('air', 'non-urban air or from high stacks')",6.95434339097961e-08
+754,Butanol,"('water', 'surface water')",2.755620942017132e-10
+755,Lithium,"('air', 'urban air close to ground')",1.1461998300316078e-14
+756,Prosulfuron,"('soil', 'agricultural')",5.614641124439995e-17
+757,"Phenol, 2,4-dichloro","('air', 'urban air close to ground')",1.2396122758734e-13
+758,Methyl parathion,"('soil', 'agricultural')",3.334935522721624e-15
+759,Xylene,"('water',)",6.255834783741307e-10
+760,"Bicarbonate, ion","('water',)",0.0
+761,"COD, Chemical Oxygen Demand","('water', 'ground-, long-term')",0.0006447503038305803
+762,Magnesium,"('water', 'ocean')",3.251246681458706e-07
+763,Radon-220,"('air', 'non-urban air or from high stacks')",3.07401199042217e-05
+764,"Methane, chlorodifluoro-, HCFC-22","('air', 'non-urban air or from high stacks')",2.188011300380323e-09
+765,Organic carbon,"('air', 'urban air close to ground')",1.6690687495666073e-10
+766,"Occupation, shrub land, sclerophyllous","('natural resource', 'land')",5.288844860744446e-06
+767,Glucose,"('water',)",0.0
+768,"Ethene, chloro-","('water', 'surface water')",8.29695722500731e-12
+769,"Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore, in ground","('natural resource', 'in ground')",7.704602949612359e-06
+770,Sulfuric acid,"('air',)",4.3256625263683044e-11
+771,Isoxaflutole,"('soil', 'agricultural')",2.4404735970092143e-15
+772,2-Methyl-1-propanol,"('air', 'non-urban air or from high stacks')",0.0
+773,"Copper, Cu 0.38%, in mixed ore, in ground","('natural resource', 'in ground')",1.0688888866946532e-05
+774,"Transformation, from permanent crop, non-irrigated, intensive","('natural resource', 'land')",0.0
+775,Glufosinate,"('soil', 'agricultural')",4.690074948501595e-13
+776,Propylamine,"('water', 'surface water')",2.6301958703114085e-14
+777,Manganese,"('soil', 'agricultural')",2.448931374766517e-08
+778,Carbon-14,"('water', 'surface water')",2.868431675174935e-07
+779,Carbonate,"('water',)",2.5094223483106397e-12
+780,"Chlorosilane, trimethyl-","('air', 'urban air close to ground')",3.501803789211297e-11
+781,"Transformation, to permanent crop, irrigated, intensive","('natural resource', 'land')",2.3781516706507358e-23
+782,Fluosilicic acid,"('water', 'surface water')",1.9479083018316418e-09
+783,Zirconium-95,"('air', 'non-urban air or from high stacks')",1.7086919462449284e-10
+784,Dicrotophos,"('soil', 'agricultural')",1.1300680808658654e-12
+785,"Hydrocarbons, unspecified","('water', 'ocean')",1.3921241785601272e-08
+786,Acetic acid,"('air', 'non-urban air or from high stacks')",6.5194202953185195e-09
+787,"Ethene, tetrachloro-","('air',)",6.562607289945214e-14
+788,Formaldehyde,"('air',)",5.308083807474956e-07
+789,Phosphorus trichloride,"('water',)",0.0
+790,Pyrene,"('air',)",1.5268316174217462e-13
+791,"Transformation, from pasture, man made, extensive","('natural resource', 'land')",9.436091769745331e-15
+792,Acetone,"('air',)",1.008897607536681e-09
+793,Bromine,"('air', 'low population density, long-term')",5.869403134735727e-12
+794,Tefluthrin,"('air', 'non-urban air or from high stacks')",6.381977633425766e-20
+795,Beryllium,"('soil',)",2.3076127797090412e-11
+796,Strontium-89,"('water', 'surface water')",6.249613097013897e-08
+797,"Samarium, 0.3% in bastnasite, 0.03% in crude ore, in ground","('natural resource', 'in ground')",7.663336554817239e-16
+798,Aluminium,"('air', 'low population density, long-term')",8.713918437575885e-08
+799,Hydrogen chloride,"('air', 'urban air close to ground')",5.284602068916741e-07
+800,Sulfur trioxide,"('air', 'urban air close to ground')",2.7269345589117194e-12
+801,"Transformation, from annual crop, non-irrigated, intensive","('natural resource', 'land')",2.2519575219561873e-06
+802,"TOC, Total Organic Carbon","('water',)",4.314621972063597e-07
+803,Methomyl,"('air', 'non-urban air or from high stacks')",9.5502180347749e-22
+804,Xylene,"('water', 'surface water')",3.6804152553080326e-08
+805,Sulfate,"('air',)",1.206972803921903e-07
+806,"Occupation, mineral extraction site","('natural resource', 'land')",0.00029288807195978654
+807,"Heat, waste","('air', 'non-urban air or from high stacks')",4.841889025212317e-07
+808,Imidacloprid,"('soil', 'agricultural')",6.611053346644229e-12
+809,Thallium,"('air', 'low population density, long-term')",1.4201831985511817e-13
+810,"Butylcarbamate, iodopropynyl","('air', 'non-urban air or from high stacks')",0.0
+811,Chlorate,"('water', 'surface water')",3.2021583861512734e-08
+812,"TOC, Total Organic Carbon","('water', 'surface water')",2.2071334127780642e-05
+813,"DOC, Dissolved Organic Carbon","('water', 'ground-')",2.563740194181522e-07
+814,Naphtalene,"('water', 'surface water')",1.4840469847422174e-12
+815,Mepiquat chloride,"('soil', 'agricultural')",1.5249953463995075e-13
+816,Acetone,"('water', 'surface water')",1.3471793288156264e-08
+817,Urea,"('water',)",0.0
+818,Strontium-90,"('water', 'surface water')",7.081340696235187e-05
+819,Fenamiphos,"('soil', 'agricultural')",0.0
+820,"Feldspar, in ground","('natural resource', 'in ground')",2.2280551442993857e-11
+821,Methyl amine,"('air', 'urban air close to ground')",4.427528308486885e-14
+822,Krypton-88,"('air', 'non-urban air or from high stacks')",1.6232489171773664e-05
+823,Antimony,"('air', 'non-urban air or from high stacks')",2.906077054330722e-09
+824,Chlorosulfonic acid,"('air',)",6.616302976176078e-16
+825,"Perchlorate, ion","('water', 'surface water')",0.0
+826,Phosgene,"('air',)",1.580744973561294e-11
+827,Xenon-133,"('air', 'non-urban air or from high stacks')",0.002622590290490364
+828,Butene,"('air',)",0.0
+829,"Nickel, Ni 2.5E+0%, in mixed ore, in ground","('natural resource', 'in ground')",1.3756281347973472e-08
+830,Lithium,"('water', 'ground-')",2.371769535582118e-11
+831,Borate,"('water',)",9.791115520225719e-11
+832,Clethodim,"('soil', 'agricultural')",1.7914193938453447e-13
+833,Abamectin,"('soil', 'agricultural')",0.0
+834,Nickel,"('air', 'lower stratosphere + upper troposphere')",1.2171197354987183e-17
+835,Ethephon,"('water', 'ground-')",1.842516796947664e-23
+836,Water,"('water', 'ocean')",1.5739439961758212e-06
+837,"Lithium, ion","('water', 'surface water')",2.083310328903315e-12
+838,Water,"('air', 'non-urban air or from high stacks')",4.528026936584966e-06
+839,Thiodicarb,"('air', 'non-urban air or from high stacks')",2.4630060040998174e-14
+840,Amine oxide,"('air',)",0.0
+841,Cymoxanil,"('soil', 'agricultural')",0.0
+842,"Ethene, chloro-","('air',)",3.035205873909576e-17
+843,"Acrylate, ion","('water', 'surface water')",2.2101934628891776e-11
+844,Lactofen,"('soil', 'agricultural')",4.164046814841369e-15
+845,Cyclohexane (for all cycloalkanes),"('air', 'urban air close to ground')",4.354014320665543e-12
+846,Arsenic,"('air',)",2.7384374932389044e-09
+847,"Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore, in ground","('natural resource', 'in ground')",3.232147119010026e-10
+848,"Talc, in ground","('natural resource', 'in ground')",3.2374867585357574e-08
+849,Barite,"('water', 'ocean')",6.99568114099482e-07
+850,"Vanadium, ion","('water',)",2.123043177589988e-11
+851,Tin,"('soil', 'agricultural')",1.436404260340211e-12
+852,Flurtamone,"('soil', 'agricultural')",2.639780234426811e-15
+853,"AOX, Adsorbable Organic Halogen as Cl","('water', 'ocean')",5.421452274070424e-11
+854,Methyl formate,"('water', 'surface water')",1.0207958016992286e-14
+855,Cobalt,"('air', 'urban air close to ground')",6.47076829589027e-10
+856,Pyraclostrobin (prop),"('soil', 'agricultural')",9.461307051501592e-15
+857,"Carbon dioxide, from soil or biomass stock","('air',)",3.151266469642849e-06
+858,Fresh water (obsolete),"('water', 'surface water')",3.687881489249927e-08
+859,MCPB,"('water', 'surface water')",3.434587069868814e-21
+860,Decanoic acid,"('water',)",0.0
+861,Cobalt,"('water',)",1.731437740509894e-11
+862,Xenon-131m,"('air', 'non-urban air or from high stacks')",6.501914074844802e-05
+863,Iron,"('air', 'urban air close to ground')",4.851554660805465e-08
+864,Sulfate,"('water', 'ocean')",1.1105019235487074e-06
+865,Cobalt,"('air',)",2.427035482761036e-10
+866,"Occupation, inland waterbody, unspecified","('natural resource', 'land')",4.7396324980502e-08
+867,Calcium,"('air', 'low population density, long-term')",3.15699336180253e-08
+868,Butanol,"('water',)",0.0
+869,"NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'urban air close to ground')",3.2549635848513687e-06
+870,Methyl ethyl ketone,"('water', 'surface water')",0.0
+871,Rimsulfuron,"('soil', 'agricultural')",2.668179882125434e-16
+872,Hexane,"('air', 'non-urban air or from high stacks')",3.1201649863293857e-08
+873,Fluorine,"('air', 'non-urban air or from high stacks')",3.0511736279644398e-09
+874,"Gold, Au 5.4E-4%, Ag 1.5E-5%, in ore, in ground","('natural resource', 'in ground')",2.2732946079218035e-13
+875,Propane,"('air', 'urban air close to ground')",4.7303755533958904e-07
+876,Metiram,"('soil', 'agricultural')",0.0
+877,"Tin, ion","('water', 'ground-')",1.676283515905147e-10
+878,Cloquintocet-mexyl,"('soil', 'agricultural')",2.442691539456882e-16
+879,Pentane,"('air', 'non-urban air or from high stacks')",9.095744347197162e-08
+880,Formic acid,"('air', 'non-urban air or from high stacks')",9.604477069656081e-10
+881,Diphenylether-compound,"('water',)",0.0
+882,"Ethene, tetrachloro-","('air', 'non-urban air or from high stacks')",2.1211392710117078e-11
+883,Silicon,"('water', 'surface water')",5.775426986152709e-07
+884,Trifloxystrobin,"('water', 'ground-')",7.408653877908845e-25
+885,Acetaldehyde,"('air',)",2.750258165058776e-07
+886,Magnesium,"('air', 'low population density, long-term')",1.0392552100142098e-08
+887,"1,3-Dioxolan-2-one","('water',)",1.4504986793992605e-09
+888,Plutonium-238,"('air', 'non-urban air or from high stacks')",9.486850575731041e-15
+889,"Oils, unspecified","('water', 'ocean')",3.1246177889256095e-06
+890,Formaldehyde,"('air', 'lower stratosphere + upper troposphere')",2.7385357919702855e-14
+891,"NMVOC, non-methane volatile organic compounds, unspecified origin","('air',)",2.4014347917027474e-05
+892,Barium,"('soil', 'agricultural')",5.979488283993774e-12
+893,Ethylamine,"('water', 'surface water')",9.671848091049827e-14
+894,"Tellurium, 0.5ppm in sulfide, Te 0.2ppm, Cu and Ag, in crude ore, in ground","('natural resource', 'in ground')",1.2052034142689111e-14
+895,Ethyne,"('air', 'non-urban air or from high stacks')",4.6105599739454136e-11
+896,Dimethyl malonate,"('air', 'urban air close to ground')",3.110250243389164e-14
+897,Thorium-228,"('air',)",2.5761893086154844e-10
+898,Pendimethalin,"('water', 'ground-')",1.2098682299567564e-19
+899,Chromium,"('soil', 'agricultural')",2.499046416789933e-10
+900,Strontium,"('water', 'ground-')",7.708956217140363e-08
+901,Amidosulfuron,"('soil', 'agricultural')",8.214090266972848e-17
+902,Flumetsulam,"('air', 'non-urban air or from high stacks')",1.1823596961973215e-14
+903,Pentane,"('air',)",1.0455821140608562e-09
+904,Sodium formate,"('air', 'urban air close to ground')",5.4052149252800275e-12
+905,"Transformation, from annual crop, non-irrigated, extensive","('natural resource', 'land')",6.940654154802256e-09
+906,"Transformation, to inland waterbody, unspecified","('natural resource', 'land')",4.739632328268657e-10
+907,"Actinides, radioactive, unspecified","('water', 'ocean')",1.1295783847207885e-07
+908,Boron,"('air',)",3.638462837522112e-11
+909,Polychlorinated biphenyls,"('water',)",1.6549069694639298e-15
+910,Ethephon,"('water', 'surface water')",1.1166037683099604e-25
+911,Benzaldehyde,"('air', 'urban air close to ground')",1.1009016174192118e-11
+912,"Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'non-urban air or from high stacks')",1.5628383896838196e-08
+913,"2,4-DB","('water', 'surface water')",3.1011315462140894e-24
+914,Sulfentrazone,"('soil', 'agricultural')",6.010745484708953e-13
+915,Hydrogen,"('air',)",2.151020013622931e-09
+916,Triethylene glycol,"('water', 'ocean')",2.335333416005437e-10
+917,Dimethyl hexanediol,"('water',)",0.0
+918,Potassium,"('soil',)",3.400545690321718e-08
+919,Calcium,"('soil', 'industrial')",9.409921735462926e-07
+920,Pentane,"('water',)",0.0
+921,"Methane, tetrafluoro-, R-14","('air', 'urban air close to ground')",7.874014322236606e-13
+922,"Methane, bromochlorodifluoro-, Halon 1211","('air', 'non-urban air or from high stacks')",3.4487729068199396e-11
+923,Fluoride,"('water', 'ground-, long-term')",9.253821613944907e-06
+924,Cesium-134,"('air', 'non-urban air or from high stacks')",4.394345658480506e-11
+925,Sulfur,"('water', 'surface water')",7.274176752030009e-08
+926,"Potassium, ion","('water', 'surface water')",3.2443368766754355e-06
+927,Fluazifop-p-butyl,"('air', 'non-urban air or from high stacks')",1.3477927176971064e-13
+928,Sulfur,"('water',)",3.073364803702237e-09
+929,Ozone,"('air', 'urban air close to ground')",2.353715639386069e-13
+930,"Methane, dichloro-, HCC-30","('air', 'urban air close to ground')",1.556400547038707e-12
+931,Lanthanum-140,"('water', 'surface water')",1.0692231777184977e-08
+932,Copper,"('air', 'urban air close to ground')",2.014482925283239e-09
+933,Dissolved solids,"('water', 'ocean')",1.411047113686631e-16
+934,Bromine,"('soil',)",3.6367150231331363e-10
+935,Terbufos,"('soil', 'agricultural')",6.036825009584203e-15
+936,Cadmium,"('air', 'lower stratosphere + upper troposphere')",1.7387623514513237e-18
+937,"Chlorides, unspecified","('water',)",1.9412656565427365e-07
+938,"Benzene, ethyl-","('water', 'ocean')",4.75157229762958e-10
+939,"Gypsum, in ground","('natural resource', 'in ground')",0.0024225096921763984
+940,"Volume occupied, underground deposit","('natural resource', 'in ground')",1.177156912363016e-09
+941,"Pumice, in ground","('natural resource', 'in ground')",0.0
+942,Magnesium,"('water', 'surface water')",2.1873305299261207e-06
+943,Diethyl ether,"('air', 'urban air close to ground')",1.5205759315575047e-17
+944,Benzo(a)pyrene,"('air',)",1.0715218010806376e-10
+945,"Nickel, ion","('water', 'ocean')",8.381400591615063e-11
+946,Hexane,"('air', 'urban air close to ground')",2.4354302891565293e-07
+947,2-Methyl-2-butene,"('air', 'urban air close to ground')",3.1366133933064675e-17
+948,"Transformation, to annual crop, irrigated, extensive","('natural resource', 'land')",0.0
+949,Selenium,"('water', 'ground-, long-term')",1.2032406711904706e-07
+950,"Occupation, grassland, natural (non-use)","('natural resource', 'land')",3.205145581794729e-06
+951,Pendimethalin,"('water', 'surface water')",2.0282733633769402e-22
+952,Calcium,"('soil', 'agricultural')",3.512576663835642e-07
+953,Ethyl acetate,"('air', 'urban air close to ground')",5.207126191775096e-09
+954,Dissolved solids,"('water',)",3.4727273561036326e-05
+955,m-Xylene,"('water', 'surface water')",3.330582149546368e-13
+956,Ethephon,"('air', 'non-urban air or from high stacks')",2.7917507344838756e-22
+957,Tin,"('air',)",2.4931012527311504e-08
+958,Molybdenum,"('water', 'ground-, long-term')",1.5954181012350943e-07
+959,Mercury,"('soil',)",8.34878005245525e-13
+960,Phenol,"('air', 'non-urban air or from high stacks')",6.539780826658831e-09
+961,"PAH, polycyclic aromatic hydrocarbons","('water',)",2.198744556887577e-11
+962,"Tin, ion","('water', 'ocean')",2.3429775357944732e-28
+963,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air',)",3.111358010454084e-14
+964,"Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore, in ground","('natural resource', 'in ground')",1.0168499950345166e-05
+965,Flufenacet,"('air', 'non-urban air or from high stacks')",5.0534930338425534e-14
+966,Sodium,"('soil', 'industrial')",4.6896869713841035e-07
+967,Methyl acrylate,"('water', 'surface water')",2.0700064195050617e-10
+968,Carbon disulfide,"('air',)",9.84391038773399e-17
+969,Hydrogen chloride,"('air', 'non-urban air or from high stacks')",1.5657437981162332e-06
+970,Scandium,"('air', 'urban air close to ground')",1.2793602560591706e-11
+971,"Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore, in ground","('natural resource', 'in ground')",8.756174519240467e-13
+972,Polychlorinated biphenyls,"('air', 'urban air close to ground')",1.9817015091489816e-11
+973,Antimony,"('soil', 'industrial')",1.1244452292663514e-10
+974,Myclobutanil,"('soil', 'agricultural')",0.0
+975,Thiodicarb,"('soil', 'agricultural')",1.055852043570776e-15
+976,"Transformation, from permanent crop, irrigated","('natural resource', 'land')",4.049762531564632e-08
+977,Phosphorus trichloride,"('air', 'urban air close to ground')",4.753193106145898e-14
+978,Boron,"('soil', 'agricultural')",1.8450649338340533e-12
+979,"Sodium sulphate, various forms, in ground","('natural resource', 'in ground')",5.395705560447461e-08
+980,Magnesium,"('soil', 'industrial')",2.2229523990199108e-07
+981,Molybdenum,"('soil', 'agricultural')",5.122821703758726e-12
+982,Barium,"('water', 'ground-, long-term')",5.351406723381102e-07
+983,Lambda-cyhalothrin,"('air', 'non-urban air or from high stacks')",8.836363554994046e-24
+984,"2,4-D","('soil', 'agricultural')",3.712052007402663e-10
+985,Dimethomorph,"('soil', 'agricultural')",0.0
+986,Lanthanum-140,"('air', 'non-urban air or from high stacks')",3.234726575012541e-10
+987,Furan,"('air',)",6.44776155477428e-18
+988,Sulfur,"('water', 'ocean')",1.8424839583390424e-10
+989,"Phenol, pentachloro-","('soil',)",8.66510007240613e-14
+990,"Suspended solids, unspecified","('water', 'ocean')",2.5128567542370974e-06
+991,Propiconazole,"('water', 'ground-')",6.438359477773174e-22
+992,Vanadium,"('air', 'low population density, long-term')",7.390587215882257e-10
+993,Anthraquinone,"('soil', 'agricultural')",1.09963035844123e-15
+994,Acenaphthene,"('air', 'non-urban air or from high stacks')",2.7900321097294473e-13
+995,Imazapyr,"('soil', 'agricultural')",1.06724977316774e-17
+996,Copper,"('air', 'non-urban air or from high stacks')",7.113529688686874e-08
+997,Sodium dichromate,"('air', 'urban air close to ground')",1.112758548856269e-12
+998,Water,"('water',)",0.29849807743991125
+999,Selenium,"('water', 'surface water')",1.4948413318886795e-09
+1000,Barium,"('water',)",1.065068322252778e-07
+1001,Cloransulam-methyl,"('soil', 'agricultural')",5.092254981555487e-14
+1002,Tin,"('soil', 'industrial')",2.0177148535486295e-10
+1003,"Barite, 15% in crude ore, in ground","('natural resource', 'in ground')",3.353460945231185e-05
+1004,Antimony,"('water', 'ground-, long-term')",6.46383159717497e-08
+1005,Carfentrazone ethyl ester,"('soil', 'agricultural')",1.505308378973787e-17
+1006,Iron,"('soil', 'industrial')",4.601693584883978e-07
+1007,Acenaphthylene,"('air',)",1.1888437101900886e-12
+1008,"Transformation, from permanent crop, irrigated, intensive","('natural resource', 'land')",2.3781516706507358e-23
+1009,Formamide,"('water', 'surface water')",6.122297690556429e-14
+1010,Scandium,"('water', 'surface water')",1.7100879081913198e-09
+1011,Sodium tetrahydridoborate,"('air', 'urban air close to ground')",2.3667338622821843e-15
+1012,Chlorine,"('air', 'urban air close to ground')",3.8936256641537865e-08
+1013,Zinc,"('air',)",1.1848013440305068e-07
+1014,"Cinnabar, in ground","('natural resource', 'in ground')",8.478443882634727e-12
+1015,Strontium,"('water', 'ocean')",3.9373463768692647e-08
+1016,Lead-210,"('air',)",6.2519176206355214e-09
+1017,"Occupation, pasture, man made","('natural resource', 'land')",0.0
+1018,Propionic acid,"('air', 'urban air close to ground')",1.35996316463004e-10
+1019,Azoxystrobin,"('air', 'non-urban air or from high stacks')",2.27713715177706e-13
+1020,Strontium,"('water', 'ground-, long-term')",5.995896337566659e-06
+1021,Vanadium,"('soil', 'industrial')",1.2292907981123689e-08
+1022,Acetic acid,"('water', 'surface water')",2.2929143336646547e-09
+1023,Cyanoacetic acid,"('air', 'urban air close to ground')",2.4802568476805338e-14
+1024,Nickel,"('air', 'urban air close to ground')",6.674669728758866e-09
+1025,"Ammonium, ion","('water', 'ground-')",3.072047977102459e-08
+1026,"Vanadium, ion","('water', 'ground-')",4.4198664795114787e-10
+1027,Metalaxyl-M,"('soil', 'agricultural')",0.0
+1028,Manganese,"('water', 'ground-, long-term')",2.2254253732880102e-05
+1029,Boron,"('air', 'low population density, long-term')",1.6112030638185192e-10
+1030,Nitrogen,"('water', 'ocean')",6.769233475195109e-11
+1031,Pyrene,"('water', 'surface water')",1.5127334189824815e-11
+1032,Furan,"('air', 'non-urban air or from high stacks')",4.191047036620406e-09
+1033,"1,4-Butanediol","('air', 'urban air close to ground')",1.8037758371789028e-13
+1034,Cesium,"('water', 'surface water')",3.891927620576187e-10
+1035,Allyl chloride,"('water',)",1.7190213522466883e-13
+1036,Bromuconazole,"('soil', 'agricultural')",4.956838399983315e-17
+1037,"Energy, kinetic (in wind), converted","('natural resource', 'in air')",0.003282920498149949
+1038,"Water, unspecified natural origin","('natural resource', 'in water')",0.00152988131492041
+1039,Benzo(b)fluoranthene,"('air',)",2.7156619830119723e-14
+1040,Thallium,"('water', 'ground-')",1.8639691774628557e-11
+1041,"2,4-DB","('soil', 'agricultural')",2.8174707645548986e-20
+1042,Hydrochloric acid,"('air',)",1.480469782629199e-14
+1043,Mancozeb,"('soil', 'agricultural')",1.6952413303207654e-10
+1044,"COD, Chemical Oxygen Demand","('water', 'ground-')",2.8093273167653577e-07
+1045,Phenanthrene,"('water', 'surface water')",1.665728081255186e-11
+1046,Silicon tetrafluoride,"('air', 'non-urban air or from high stacks')",2.832594390435988e-12
+1047,Zinc,"('soil', 'industrial')",1.2461731483362506e-08
+1048,Orbencarb,"('soil', 'agricultural')",3.223347952487132e-11
+1049,Aluminium,"('air',)",3.863627584685584e-06
+1050,"Fish, demersal, in ocean","('natural resource', 'in water')",0.0
+1051,Sulfuric acid,"('air', 'non-urban air or from high stacks')",2.4648756735852074e-09
+1052,"Transformation, from annual crop, non-irrigated","('natural resource', 'land')",1.837892861943531e-08
+1053,Protactinium-234,"('water', 'surface water')",7.33307674943355e-07
+1054,MCPA,"('soil', 'agricultural')",2.5629004854235626e-14
+1055,Silicon,"('air', 'urban air close to ground')",1.652705091010717e-07
+1056,"Magnesite, 60% in crude ore, in ground","('natural resource', 'in ground')",6.309122814604194e-05
+1057,Silver,"('soil', 'agricultural')",1.8001474430688557e-18
+1058,Mercury,"('water', 'surface water')",6.543280625855627e-11
+1059,Anthracene,"('air',)",9.092570251919333e-20
+1060,Sulfur dioxide,"('air',)",3.3929262767451495e-05
+1061,"Clay, unspecified, in ground","('natural resource', 'in ground')",0.0088778544416066
+1062,Hydrogen fluoride,"('air', 'non-urban air or from high stacks')",2.016429497353976e-07
+1063,Sulfate,"('water', 'ground-')",0.00012226580689097746
+1064,"Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore, in ground","('natural resource', 'in ground')",3.0795151923053035e-05
+1065,"Arsenic, ion","('water', 'surface water')",2.43073593979041e-08
+1066,"Carbon dioxide, to soil or biomass stock","('soil',)",9.46081052238113e-08
+1067,"Carbon, organic, in soil or biomass stock","('natural resource', 'in ground')",2.203742946286195e-06
+1068,Chromium VI,"('water', 'ground-')",1.6035262745364378e-09
+1069,Sulfur,"('soil', 'industrial')",1.5994463026980718e-07
+1070,Cesium-137,"('air', 'non-urban air or from high stacks')",7.819866266122064e-10
+1071,Iodine-133,"('water', 'surface water')",6.353585051370505e-09
+1072,"Titanium, ion","('water', 'surface water')",3.00990480528745e-09
+1073,Fluosilicic acid,"('water',)",8.329686746452413e-11
+1074,Acetonitrile,"('air', 'non-urban air or from high stacks')",1.5716416906010741e-10
+1075,Bentazone,"('water', 'ground-')",4.401205823228307e-15
+1076,Styrene,"('air', 'non-urban air or from high stacks')",6.585245695747109e-09
+1077,Krypton-85m,"('air', 'non-urban air or from high stacks')",5.8918304002205835e-05
+1078,Elemental carbon,"('water',)",0.0
+1079,Hydrochloric acid,"('water',)",1.893198330848732e-08
+1080,"Transformation, to dump site, sanitary landfill","('natural resource', 'land')",1.5931818631306482e-08
+1081,Polychlorinated biphenyls,"('air', 'non-urban air or from high stacks')",1.388319881074515e-12
+1082,"Methane, non-fossil","('air', 'urban air close to ground')",1.0622811101334776e-06
+1083,Hydrogen carbonate,"('water', 'ocean')",1.4348788471193712e-08
+1084,Benzene,"('air',)",7.9536621447503e-08
+1085,Bromine,"('soil', 'industrial')",1.3545025024391102e-10
+1086,Hydroxide,"('water',)",2.8621892606795217e-13
+1087,Aluminium,"('water', 'ground-, long-term')",5.770330569262003e-05
+1088,MCPA,"('water', 'ground-')",4.5676734772164403e-23
+1089,2-Propanol,"('air', 'non-urban air or from high stacks')",1.5510042162582603e-13
+1090,Silver-110,"('water', 'surface water')",2.70848153248852e-06
+1091,"Radioactive species, Nuclides, unspecified","('water', 'ocean')",6.753351105196357e-05
+1092,Tungsten,"('air', 'low population density, long-term')",3.500373568108873e-11
+1093,"Sulfate, ion","('water', 'ground-')",4.562834792306844e-08
+1094,Dimethachlor,"('soil', 'agricultural')",6.805229674788589e-14
+1095,Barium,"('air', 'urban air close to ground')",1.5116991259041202e-09
+1096,"Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore, in ground","('natural resource', 'in ground')",2.96828304804105e-07
+1097,Dicamba,"('water', 'surface water')",3.6402854360062046e-21
+1098,Silicon,"('air',)",2.256622350963042e-07
+1099,"Occupation, lake, artificial","('natural resource', 'land')",0.00011832635839819612
+1100,"Zinc, ion","('water', 'ground-')",1.4823657625637694e-07
+1101,Heptane,"('air', 'urban air close to ground')",1.0851540392103956e-07
+1102,Molybdenum,"('water',)",1.7954738961878605e-11
+1103,"Particulates, < 2.5 um","('air', 'low population density, long-term')",1.4886660255861393e-06
+1104,Chlorfenvinphos,"('soil', 'agricultural')",0.0
+1105,Triethylene glycol,"('water', 'surface water')",1.7686544813614146e-12
+1106,Lactic acid,"('air', 'urban air close to ground')",5.451729878673643e-14
+1107,Titanium,"('soil',)",2.864792751045135e-08
+1108,"Hydrocarbons, unspecified","('air', 'non-urban air or from high stacks')",1.9565205030887756e-10
+1109,"Krypton, in air","('natural resource', 'in air')",7.911336586671244e-18
+1110,Calcium,"('air', 'non-urban air or from high stacks')",3.560989541626215e-09
+1111,Carbetamide,"('soil', 'agricultural')",3.427235345261159e-15
+1112,Hexaconazole,"('soil', 'agricultural')",0.0
+1113,Cobalt,"('soil', 'industrial')",7.733805073628455e-11
+1114,"Sulfur, in ground","('natural resource', 'in ground')",2.412474387305425e-08
+1115,"Ethane, 1,1,1-trichloro-, HCFC-140","('water', 'surface water')",3.0448304538834075e-21
+1116,Cyproconazole,"('soil', 'agricultural')",1.6208114583257572e-15
+1117,"Transformation, to permanent crop","('natural resource', 'land')",3.4456086007278856e-07
+1118,Nitrate,"('air', 'low population density, long-term')",3.852426519088359e-08
+1119,"Water, unspecified natural origin","('natural resource', 'in ground')",5.030156496948606e-08
+1120,Lambda-cyhalothrin,"('soil', 'agricultural')",5.1683278586536615e-14
+1121,Carbaryl,"('soil', 'agricultural')",3.97454020011679e-15
+1122,"Ammonium, ion","('water', 'ground-, long-term')",5.863936071966968e-07
+1123,Methomyl,"('water', 'ground-')",1.4725665203107582e-23
+1124,Chlormequat,"('soil', 'agricultural')",9.322057650237477e-14
+1125,"Transformation, to shrub land, sclerophyllous","('natural resource', 'land')",1.0575704203102823e-06
+1126,"Cadmium, ion","('water', 'ground-, long-term')",1.201014961321854e-07
+1127,"Arsenic, ion","('water', 'ocean')",1.1346473367570501e-10
+1128,Atrazine,"('water', 'surface water')",3.3213936334578417e-20
+1129,Phosphorus oxychloride,"('water',)",0.0
+1130,Pendimethalin,"('air', 'non-urban air or from high stacks')",4.271093244140647e-12
+1131,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'urban air close to ground')",6.316116008997081e-15
+1132,Bentazone,"('air', 'non-urban air or from high stacks')",2.1111529997302527e-13
+1133,Lead,"('air', 'urban air close to ground')",2.1355189423764088e-09
+1134,"Potassium, ion","('water', 'ground-, long-term')",0.00014145802016111978
+1135,"Particulates, > 10 um","('air',)",2.041923788391795e-05
+1136,Furathiocarb,"('soil', 'agricultural')",0.0
+1137,Sulfate,"('air', 'low population density, long-term')",8.345509244211712e-08
+1138,Iodide,"('soil', 'industrial')",6.619486734562984e-15
+1139,Dissolved solids,"('water', 'ground-')",1.0358832048905723e-06
+1140,Fluoride,"('soil', 'industrial')",1.5462802530103414e-08
+1141,Molinate,"('soil', 'agricultural')",9.701794356401074e-14
+1142,Dichlorprop,"('air', 'non-urban air or from high stacks')",6.218825756405726e-22
+1143,Boron,"('water', 'ocean')",1.7999199060218049e-09
+1144,Xenon-133m,"('air', 'non-urban air or from high stacks')",2.4844894270279135e-06
+1145,Propiconazole,"('air', 'non-urban air or from high stacks')",7.453244985743019e-14
+1146,Chlorine,"('air', 'low population density, long-term')",1.0737632859804089e-09
+1147,Carbon,"('soil', 'agricultural')",8.03969178873032e-08
+1148,Thorium-230,"('air', 'non-urban air or from high stacks')",1.6385248055180716e-07
+1149,Phosphine,"('air', 'urban air close to ground')",1.6396092724052478e-14
+1150,"Occupation, pasture, man made, extensive","('natural resource', 'land')",4.71797523461849e-13
+1151,"Perlite, in ground","('natural resource', 'in ground')",1.9714201657954913e-09
+1152,Cyclohexane,"('water', 'surface water')",0.0
+1153,Iron,"('soil',)",1.692869318428492e-06
+1154,"Transformation, from grassland, natural (non-use)","('natural resource', 'land')",3.2362556595192115e-09
+1155,"Heat, waste","('air', 'urban air close to ground')",0.005277105306535262
+1156,Calcium,"('air', 'urban air close to ground')",5.4433278458984785e-08
+1157,Kaolin,"('soil', 'agricultural')",0.0
+1158,Silicon,"('water', 'ground-, long-term')",0.0003879505447286397
+1159,Butene,"('air', 'urban air close to ground')",1.085078133548432e-08
+1160,Carbon-14,"('air', 'non-urban air or from high stacks')",0.00037463848134000274
+1161,"2,4-di-tert-butylphenol","('water',)",0.0
+1162,Elemental carbon,"('air', 'urban air close to ground')",6.71073660183697e-11
+1163,Manganese,"('air', 'low population density, long-term')",2.396454768843493e-09
+1164,Pyraclostrobin,"('air', 'non-urban air or from high stacks')",1.7555855427460958e-13
+1165,Mercury,"('air', 'lower stratosphere + upper troposphere')",1.2171198118408026e-20
+1166,Sulfur dioxide,"('air', 'lower stratosphere + upper troposphere')",1.738762348683996e-13
+1167,Acephate,"('soil', 'agricultural')",6.176795342025404e-12
+1168,"Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","('natural resource', 'in ground')",9.366838923953825e-11
+1169,Lead,"('water', 'ocean')",1.1516053318471315e-09
+1170,Acetic acid,"('air', 'urban air close to ground')",1.3763284785105202e-08
+1171,Zinc-65,"('air', 'non-urban air or from high stacks')",1.5034357961724778e-10
+1172,Ruthenium-103,"('air', 'non-urban air or from high stacks')",7.852858627004968e-13
+1173,Nitrite,"('water', 'ground-')",1.3258588604176746e-09
+1174,Bromine,"('water', 'ground-, long-term')",2.119439493299509e-08
+1175,"Gold, Au 9.7E-4%, in mixed ore, in ground","('natural resource', 'in ground')",2.604369603686424e-10
+1176,Oxamyl,"('soil', 'agricultural')",0.0
+1177,Triasulfuron,"('soil', 'agricultural')",6.83335660076302e-17
+1178,Oxygen,"('water',)",0.0
+1179,4-Methyl-2-pentanone,"('water', 'surface water')",0.0
+1180,Ethylene diamine,"('air', 'urban air close to ground')",1.59344129496747e-13
+1181,"Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'surface water')",5.05950579062636e-08
+1182,Lead,"('soil', 'agricultural')",9.657669046073492e-11
+1183,Ammonia,"('air', 'non-urban air or from high stacks')",6.234969096841683e-06
+1184,"Cyhalothrin, gamma-","('air', 'non-urban air or from high stacks')",1.3769867518053916e-13
+1185,"Oils, unspecified","('soil', 'agricultural')",1.7011003345406681e-12
+1186,Iprodion,"('soil', 'agricultural')",3.043793691992886e-14
+1187,Tebuconazole,"('water', 'ground-')",2.005063540373556e-23
+1188,"Uranium, in ground","('natural resource', 'in ground')",1.7507549596667346e-07
+1189,Methiocarb,"('soil', 'agricultural')",0.0
+1190,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'industrial')",1.5347422972610339e-15
+1191,Aluminium,"('air', 'urban air close to ground')",1.0891501903575433e-07
+1192,"Occupation, permanent crop","('natural resource', 'land')",5.0500928767408e-06
+1193,Hexane,"('air',)",5.492376359473836e-16
+1194,Metconazole,"('soil', 'agricultural')",6.974643211454669e-15
+1195,Butyl acetate,"('water', 'surface water')",3.5705632039048607e-10
+1196,"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore, in ground","('natural resource', 'in ground')",1.7209141754202078e-07
+1197,Imazamox,"('soil', 'agricultural')",4.968017978875363e-14
+1198,"Silver, Ag 1.5E-4%, Au 6.8E-4%, in ore, in ground","('natural resource', 'in ground')",6.93369604371811e-14
+1199,"Diatomite, in ground","('natural resource', 'in ground')",1.2137881858564214e-11
+1200,o-Xylene,"('air', 'urban air close to ground')",8.176421056379845e-12
+1201,Zinc,"('air', 'urban air close to ground')",4.62187470095426e-09
+1202,"PAH, polycyclic aromatic hydrocarbons","('water', 'ocean')",5.045580216554395e-10
+1203,Thifensulfuron,"('air', 'non-urban air or from high stacks')",6.9112085072643716e-15
+1204,Boric acid,"('air', 'urban air close to ground')",1.821574745558115e-19
+1205,Ethyl acetate,"('water', 'surface water')",6.735372999255423e-13
+1206,Polonium-210,"('air', 'non-urban air or from high stacks')",6.575869216697789e-06
+1207,Iron,"('water', 'ground-')",3.117185276545395e-08
+1208,"Nitrogen, organic bound","('water', 'ground-')",4.0209705190956493e-08
+1209,Bentazone,"('soil', 'agricultural')",1.3418714522991015e-13
+1210,"Methane, tetrafluoro-, R-14","('air',)",2.782775191880266e-09
+1211,Oryzalin,"('soil', 'agricultural')",0.0
+1212,Flurochloridone,"('soil', 'agricultural')",0.0
+1213,Silthiofam,"('soil', 'agricultural')",3.8346822124163923e-16
+1214,Spiroxamine,"('soil', 'agricultural')",1.9734555920611886e-14
+1215,"2,4-D ester","('water', 'surface water')",1.0604627088372057e-23
+1216,Phosphorus,"('soil',)",3.0834945858722914e-09
+1217,Hydrogen,"('air', 'urban air close to ground')",5.5360883094810635e-08
+1218,"Methane, trichlorofluoro-, CFC-11","('air', 'urban air close to ground')",1.999793866343406e-14
+1219,t-Butylamine,"('air', 'urban air close to ground')",2.7691543211375185e-14
+1220,"Dibenz(a,h)anthracene","('water', 'surface water')",4.4655281137661326e-17
+1221,Fomesafen,"('soil', 'agricultural')",4.0240138391528667e-13
+1222,Strontium-90,"('water', 'ocean')",1.4391069616983876e-06
+1223,Ethylene glycol monoethyl ether,"('air', 'non-urban air or from high stacks')",0.0
+1224,Manganese,"('soil', 'industrial')",2.1938131338121586e-08
+1225,Chloroform,"('air',)",4.478979420270874e-17
+1226,"Methane, non-fossil","('air', 'non-urban air or from high stacks')",8.16765170842386e-06
+1227,"Hydrocarbons, aliphatic, unsaturated","('air', 'urban air close to ground')",3.284760051266182e-08
+1228,Nitrogen oxides,"('air', 'non-urban air or from high stacks')",3.768149111836157e-05
+1229,Boron trifluoride,"('air', 'urban air close to ground')",1.2230300667158995e-15
+1230,Antimony,"('soil',)",5.2337354471551034e-11
+1231,Barium,"('water', 'ground-')",3.097734434014385e-09
+1232,Cobalt,"('water', 'ocean')",3.899256150549383e-13
+1233,"Ethane, 1,2-dichloro-","('air', 'non-urban air or from high stacks')",1.971501514086067e-11
+1234,MCPA,"('water', 'surface water')",3.4347248217738786e-21
+1235,Chloroacetic acid,"('water', 'surface water')",4.8133071294162275e-11
+1236,Cu-HDO,"('water',)",3.771377530121447e-16
+1237,"Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore, in ground","('natural resource', 'in ground')",2.0216563245586916e-07
+1238,Pyrithiobac sodium salt,"('soil', 'agricultural')",3.2223854322571965e-14
+1239,Sulfur,"('soil', 'agricultural')",1.2365827051558147e-08
+1240,Arsenic,"('soil',)",1.2271024832627058e-10
+1241,Diflufenican,"('soil', 'agricultural')",5.220434150927921e-15
+1242,Lead,"('water', 'surface water')",4.261737973172185e-09
+1243,Tungsten,"('water', 'ground-')",2.4117379917279527e-09
+1244,Carbendazim,"('soil', 'agricultural')",1.832359105532329e-12
+1245,Methane,"('air', 'urban air close to ground')",2.510649966923469e-10
+1246,Boron,"('air', 'non-urban air or from high stacks')",5.559271684973788e-08
+1247,Chromium IV,"('air', 'urban air close to ground')",1.1805682212874554e-16
+1248,Trichloroethylene,"('air',)",4.760125286597838e-12
+1249,Methanesulfonic acid,"('air', 'urban air close to ground')",2.5063725570875376e-14
+1250,Isoproturon,"('soil', 'agricultural')",4.5826626142863644e-14
+1251,Trioctyltin,"('water', 'ocean')",2.4030538063098043e-29
+1252,Trifloxystrobin,"('air', 'non-urban air or from high stacks')",4.4219278163133186e-15
+1253,Boron,"('water', 'ground-, long-term')",4.513925567468823e-06
+1254,Beryllium,"('water', 'ground-')",1.1026984501582158e-10
+1255,Radon-220,"('air',)",3.354531385575866e-08
+1256,Propiconazole,"('soil', 'agricultural')",6.9124660336795715e-15
+1257,Trimethylamine,"('air', 'urban air close to ground')",7.411516652339826e-15
+1258,"Particulates, > 10 um","('air', 'non-urban air or from high stacks')",5.084892736006191e-05
+1259,Ethylene glycol monoethyl ether,"('water', 'surface water')",0.0
+1260,"Iron, ion","('water', 'ocean')",2.5626440423944984e-09
+1261,Water,"('air',)",0.0003303917888760294
+1262,Lactofen,"('air', 'non-urban air or from high stacks')",9.716758251132845e-14
+1263,Imazethapyr,"('soil', 'agricultural')",1.2939468029416525e-13
+1264,"Suspended solids, unspecified","('water', 'ground-')",1.012138742621131e-16
+1265,"Gas, mine, off-gas, process, coal mining","('natural resource', 'in ground')",7.410515369813156e-05
+1266,Cinidon-ethyl,"('soil', 'agricultural')",9.956564796112319e-17
+1267,Alachlor,"('soil', 'agricultural')",3.0832851252244046e-14
+1268,Acetamide,"('soil', 'agricultural')",8.682748905357211e-13
+1269,Diflubenzuron,"('soil', 'agricultural')",1.7115249463705083e-10
+1270,Prometryn,"('soil', 'agricultural')",4.815472975985973e-13
+1271,Carnallite,"('natural resource', 'in water')",2.2559505843757215e-08
+1272,Selenium,"('water',)",2.1638812608385356e-12
+1273,Dimethyl carbonate,"('air',)",1.4095174074672557e-10
+1274,Dichlorodimethylsilane,"('air',)",0.0
+1275,Aniline,"('water', 'surface water')",6.12713553345362e-13
+1276,Ethylene oxide,"('air',)",8.47478794064994e-12
+1277,Radon-222,"('air', 'urban air close to ground')",5.309485477733324e-07
+1278,Thorium-228,"('water', 'ocean')",3.954018858029112e-06
+1279,Cobalt,"('soil', 'agricultural')",2.2586313527254445e-11
+1280,"Ethane, hexafluoro-, HFC-116","('air', 'urban air close to ground')",3.0923818877460206e-11
+1281,"Hydrocarbons, chlorinated","('air', 'urban air close to ground')",2.0712985557011044e-10
+1282,Lead,"('soil',)",3.4166768454402046e-09
+1283,"Particulates, > 10 um","('air', 'urban air close to ground')",1.3438317756885884e-06
+1284,Nickel,"('soil', 'industrial')",3.342120466200808e-10
+1285,"Carbon dioxide, fossil","('air',)",0.07037044685143727
+1286,Fenpiclonil,"('soil', 'agricultural')",5.137347029723956e-12
+1287,Chlorosulfonic acid,"('air', 'urban air close to ground')",3.0285491597084004e-14
+1288,"Ethane, 1,1-difluoro-, HFC-152a","('air', 'urban air close to ground')",9.353044477434473e-11
+1289,Benzo(a)pyrene,"('water', 'surface water')",4.647209084001591e-16
+1290,Benzo(b)fluoranthene,"('water', 'surface water')",4.532462945836128e-16
+1291,Chloroacetyl chloride,"('water', 'surface water')",2.6556343040111344e-14
+1292,"Oils, non-fossil","('soil',)",2.386913498790721e-08
+1293,"Transformation, to permanent crop, non-irrigated","('natural resource', 'land')",1.1661584166832674e-22
+1294,Phosphate,"('water', 'surface water')",1.3848139856229638e-08
+1295,Halosulfuron-methyl,"('soil', 'agricultural')",3.2375557366925557e-16
+1296,Acetaldehyde,"('air', 'non-urban air or from high stacks')",6.4141266900598296e-09
+1297,Iron,"('air', 'low population density, long-term')",9.569218009362119e-08
+1298,"Indeno(1,2,3-cd)pyrene","('water', 'surface water')",7.00906226322949e-16
+1299,Cobalt,"('air', 'non-urban air or from high stacks')",3.275805108990592e-09
+1300,Molybdenum,"('water', 'ground-')",7.414023033900635e-09
+1301,"Cadmium, ion","('water', 'ocean')",4.125564521447057e-11
+1302,Water,"('air', 'low population density, long-term')",8.171281421224836e-23
+1303,"Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore, in ground","('natural resource', 'in ground')",4.778325293630294e-07
+1304,Chloramine,"('water', 'surface water')",1.7195862727496368e-12
+1305,"Gangue, bauxite, in ground","('natural resource', 'in ground')",0.0007182308851882695
+1306,"Transformation, from forest, primary (non-use)","('natural resource', 'land')",1.0412342862191199e-07
+1307,Lithium,"('soil',)",2.371769535582118e-11
+1308,"Coal, hard, unspecified, in ground","('natural resource', 'in ground')",0.008366932739289831
+1309,Boron,"('water', 'surface water')",8.386309234502055e-09
+1310,Metribuzin,"('air', 'non-urban air or from high stacks')",6.302025952573117e-13
+1311,"Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore, in ground","('natural resource', 'in ground')",2.991694786250633e-12
+1312,Hydrogen sulfide,"('air', 'urban air close to ground')",3.049600875029338e-09
+1313,Beryllium,"('water',)",7.84645081233265e-12
+1314,"Occupation, industrial area","('natural resource', 'land')",0.0005451274532978786
+1315,Dithianon,"('soil', 'agricultural')",8.214090492157758e-16
+1316,"Indium, 0.005% in sulfide, In 0.003%, Pb, Zn, Ag, Cd, in ground","('natural resource', 'in ground')",8.250272805533407e-09
+1317,Endothall,"('soil', 'agricultural')",6.981070905353213e-16
+1318,Zirconium,"('air', 'non-urban air or from high stacks')",1.8885161381648403e-12
+1319,"Arsenic, ion","('water', 'ground-, long-term')",2.2133805870518163e-07
+1320,Protactinium-234,"('air', 'non-urban air or from high stacks')",1.0133926278663499e-07
+1321,Sulfide,"('water', 'ocean')",3.5079511553183895e-10
+1322,Sulfate,"('air', 'urban air close to ground')",1.5657022566294958e-07
+1323,Thorium-228,"('air', 'urban air close to ground')",6.313823993566062e-08
+1324,Copper,"('air',)",1.7727866201342473e-07
+1325,Tebuconazole,"('water', 'surface water')",4.828165795348368e-26
+1326,Sulfate,"('air', 'non-urban air or from high stacks')",1.983564034895202e-09
+1327,"Methane, non-fossil","('air',)",6.558160971911002e-13
+1328,Selenium,"('air', 'urban air close to ground')",2.913585632121716e-10
+1329,Dichlorprop,"('soil', 'agricultural')",8.505555795842572e-20
+1330,"Transformation, to forest, extensive","('natural resource', 'land')",1.1967983226271406e-06
+1331,Ethane,"('air', 'urban air close to ground')",1.3320434183268746e-07
+1332,Tin,"('soil',)",4.568344717295085e-11
+1333,"Heat, waste","('soil', 'industrial')",0.00024005931393288505
+1334,Mercury,"('air',)",3.8883695534338444e-09
+1335,Carbaryl,"('water', 'ground-')",1.0047411282753855e-21
+1336,Carfentrazone-ethyl,"('soil', 'agricultural')",2.7072629915953264e-16
+1337,Nitrogen,"('natural resource', 'in air')",0.00036198973172364896
+1338,Cumene,"('water', 'surface water')",9.939792559686052e-08
+1339,Scandium,"('air',)",3.71183613698692e-17
+1340,o-Dichlorobenzene,"('water', 'surface water')",5.843579403916548e-10
+1341,Thorium-228,"('water', 'surface water')",7.783854976140884e-05
+1342,Fenoxaprop,"('air', 'non-urban air or from high stacks')",9.392704002101443e-14
+1343,"Carbon monoxide, from soil or biomass stock","('air', 'non-urban air or from high stacks')",9.080596439079394e-08
+1344,Iodine-133,"('air', 'non-urban air or from high stacks')",5.278455362672648e-09
+1345,Propanol,"('air', 'urban air close to ground')",8.01148349389762e-13
+1346,Iron,"('air', 'non-urban air or from high stacks')",2.3949097820365764e-09
+1347,"Methane, trifluoro-, HFC-23","('air', 'urban air close to ground')",5.767998960650947e-12
+1348,Platinum,"('air', 'non-urban air or from high stacks')",1.9102498815155324e-14
+1349,Maleic hydrazide,"('soil', 'agricultural')",0.0
+1350,Phosphoric acid,"('air', 'urban air close to ground')",6.448561345883128e-18
+1351,"Fungicides, unspecified","('soil', 'agricultural')",2.925046311344293e-16
+1352,Methyl acetate,"('water', 'surface water')",8.489431110453086e-15
+1353,Propene,"('air', 'urban air close to ground')",6.142793525078384e-08
+1354,Lead-210,"('water', 'surface water')",6.058899235045097e-07
+1355,Difenoconazole,"('soil', 'agricultural')",8.784353158796066e-12
+1356,Propanol,"('air', 'non-urban air or from high stacks')",9.78791610923602e-18
+1357,"Fluorspar, 92%, in ground","('natural resource', 'in ground')",1.404497747130515e-06
+1358,Lead,"('air',)",3.3069620631819235e-08
+1359,Toluene,"('air',)",1.1068497360380492e-07
+1360,Argon-40,"('natural resource', 'in air')",6.712392388785579e-06
+1361,"Particulates, > 2.5 um, and < 10um","('air', 'urban air close to ground')",9.834197753899566e-07
+1362,"Transformation, from grassland, natural, for livestock grazing","('natural resource', 'land')",5.0022938209000943e-08
+1363,Ethalfluralin,"('soil', 'agricultural')",2.2688040800196248e-14
+1364,"Chromium, ion","('water', 'ocean')",7.673557600037477e-10
+1365,Chloride,"('soil', 'industrial')",8.400855647915493e-07
+1366,Cerium-141,"('air', 'non-urban air or from high stacks')",9.175231077398168e-10
+1367,Butadiene,"('air', 'lower stratosphere + upper troposphere')",3.2861722872921197e-15
+1368,Mercury,"('air', 'non-urban air or from high stacks')",4.4137595563529467e-10
+1369,"Gallium, in ground","('natural resource', 'in ground')",2.0990518128238172e-08
+1370,Tellurium-123m,"('water', 'surface water')",6.982651480713741e-09
+1371,Acetic acid,"('air',)",1.3580728098087193e-08
+1372,Carbon,"('soil', 'industrial')",3.2828419698098755e-05
+1373,"Particulates, < 2.5 um","('air', 'lower stratosphere + upper troposphere')",6.607306919814976e-15
+1374,"Occupation, permanent crop, non-irrigated, intensive","('natural resource', 'land')",0.0
+1375,Cloransulam-methyl,"('air', 'non-urban air or from high stacks')",5.985756788577442e-14
+1376,Zinc,"('air', 'lower stratosphere + upper troposphere')",1.738762286961878e-16
+1377,"Copper, Cu 6.8E-1%, in mixed ore, in ground","('natural resource', 'in ground')",3.8185942808226255e-09
+1378,Benzal chloride,"('air',)",5.307508339257831e-16
+1379,Cycloxydim,"('soil', 'agricultural')",0.0
+1380,Zinc-65,"('water', 'surface water')",5.548031574475513e-07
+1381,"Hydrocarbons, unspecified","('water',)",7.485608556183028e-09
+1382,"Phenol, pentachloro-","('air', 'non-urban air or from high stacks')",2.1876347602610267e-09
+1383,"Transformation, from dump site, slag compartment","('natural resource', 'land')",5.523629241173232e-09
+1384,"Phosphorus, 18% in apatite, 12% in crude ore, in ground","('natural resource', 'in ground')",1.9959669106019625e-07
+1385,"Carbon dioxide, non-fossil","('air', 'non-urban air or from high stacks')",0.00026329752573396185
+1386,"Ethene, tetrachloro-","('air', 'urban air close to ground')",9.565806422282501e-14
+1387,Benzyl alcohol,"('water', 'surface water')",0.0
+1388,"Toluene, 2-chloro","('air', 'urban air close to ground')",8.019473120569494e-13
+1389,Hydrogen chloride,"('air',)",1.4585156891416607e-06
+1390,"Transformation, from forest, unspecified","('natural resource', 'land')",9.750456825216515e-06
+1391,"Transformation, to traffic area, rail network","('natural resource', 'land')",8.431858946401531e-08
+1392,"Particulates, > 2.5 um, and < 10um","('air',)",7.275202933544654e-06
+1393,Copper,"('soil',)",5.416802920427761e-09
+1394,Permethrin,"('water',)",0.0
+1395,Pentane,"('air', 'urban air close to ground')",8.638716228455453e-07
+1396,Phenol,"('air', 'urban air close to ground')",8.113794082075721e-08
+1397,Dicamba,"('soil', 'agricultural')",6.181828355587223e-15
+1398,Nickel,"('soil',)",7.150376549151734e-10
+1399,"Nickel, ion","('water', 'ground-')",4.0461472874309005e-09
+1400,"Carboxylic acids, unspecified","('water', 'surface water')",1.4322293793968474e-06
+1401,Chlorine,"('air', 'non-urban air or from high stacks')",2.495129406217403e-11
+1402,"Copper, ion","('water',)",2.6648111815211846e-09
+1403,Krypton-87,"('air', 'non-urban air or from high stacks')",1.2350397038252223e-05
+1404,Cadmium,"('air',)",3.943612342297433e-10
+1405,"Energy, geothermal, converted","('natural resource', 'in ground')",0.0003377429546954846
+1406,"Tantalum, 81.9% in tantalite, 1.6E-4% in crude ore, in ground","('natural resource', 'in ground')",9.126436779928446e-10
+1407,"Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore, in ground","('natural resource', 'in ground')",9.37822055860327e-09
+1408,Strontium,"('air', 'non-urban air or from high stacks')",3.4118976702146397e-09
+1409,Fenpropidin,"('soil', 'agricultural')",6.871114017290085e-15
+1410,Formamide,"('air', 'urban air close to ground')",2.550910673105449e-14
+1411,Bromine,"('water', 'ocean')",1.3839065170470727e-08
+1412,Zeta-cypermethrin,"('soil', 'agricultural')",1.2475597182526e-15
+1413,Scandium,"('soil',)",6.49465569831753e-11
+1414,Titanium,"('air',)",1.367124541603088e-08
+1415,"Silver, ion","('water', 'ground-')",4.5127330134490236e-11
+1416,"Oil, crude, in ground","('natural resource', 'in ground')",0.00875632926554897
+1417,Cadmium,"('soil', 'agricultural')",2.1955607842474883e-11
+1418,Manganese,"('water', 'surface water')",2.0784884745795506e-08
+1419,"Transformation, to permanent crop, non-irrigated, intensive","('natural resource', 'land')",0.0
+1420,Ethanol,"('air',)",8.353348299339564e-15
+1421,Diethylene glycol,"('air', 'non-urban air or from high stacks')",0.0
+1422,"Wood, hard, standing","('natural resource', 'biotic')",5.660975547966763e-07
+1423,"Transformation, to seabed, infrastructure","('natural resource', 'land')",1.0024826672427098e-07
+1424,Metazachlor,"('soil', 'agricultural')",1.6057420511615255e-13
+1425,Barium sulfide,"('water',)",0.0
+1426,Dichromate,"('water',)",9.2468984740099e-11
+1427,"Sodium, ion","('water', 'ground-, long-term')",0.00014896720200705866
+1428,Barium,"('soil', 'industrial')",1.0739494415687652e-07
+1429,"Transformation, to forest, intensive","('natural resource', 'land')",0.00010462909874198712
+1430,Phosphorus,"('air', 'low population density, long-term')",2.07594224850651e-10
+1431,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air', 'urban air close to ground')",3.631964714700535e-11
+1432,Triforine,"('soil', 'agricultural')",0.0
+1433,Ethofumesate,"('soil', 'agricultural')",2.364155498455139e-13
+1434,Butadiene,"('air',)",8.251026022494135e-15
+1435,Iodide,"('water', 'ocean')",1.977009207384354e-09
+1436,"Ethane, 1,2-dichloro-","('water', 'surface water')",3.8861254778099595e-11
+1437,"Aldehydes, unspecified","('air', 'urban air close to ground')",1.7432724940911752e-10
+1438,m-Xylene,"('air', 'urban air close to ground')",7.0190321492607e-10
+1439,"Occupation, annual crop","('natural resource', 'land')",5.148928924705587e-06
+1440,Strontium,"('soil',)",2.6339237162819654e-09
+1441,"Gold, Au 6.8E-4%, Ag 1.5E-4%, in ore, in ground","('natural resource', 'in ground')",3.089197392886739e-13
+1442,"Calcium, ion","('water', 'surface water')",1.906929015584215e-05
+1443,Thorium,"('air', 'urban air close to ground')",1.8664153242872358e-11
+1444,"Carbon monoxide, non-fossil","('air', 'urban air close to ground')",8.447278094930231e-06
+1445,Chloridazon,"('soil', 'agricultural')",4.423713628819518e-15
+1446,Chromium VI,"('soil',)",3.0988167462131176e-09
+1447,"Methane, monochloro-, R-40","('air', 'non-urban air or from high stacks')",2.6176583770048127e-10
+1448,Sulfur dioxide,"('air', 'urban air close to ground')",1.988629684157711e-05
+1449,Dimethenamid,"('water', 'ground-')",8.79136463463816e-20
+1450,Bromide,"('water', 'surface water')",4.708008214488608e-10
+1451,Benzene,"('water', 'surface water')",1.5756816111118154e-07
+1452,Trifloxystrobin,"('soil', 'agricultural')",5.423497726514675e-16
+1453,Trimethylamine,"('water', 'surface water')",1.7787639705779e-14
+1454,Cyanide,"('water', 'surface water')",2.850512074671621e-08
+1455,Carbonyl sulfide,"('air',)",2.827964917221387e-09
+1456,"Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore, in ground","('natural resource', 'in ground')",4.1117073587195754e-07
+1457,Chlorpyrifos methyl,"('soil', 'agricultural')",1.0122362221848584e-10
+1458,Potassium,"('air',)",3.384761623229054e-09
+1459,Silicon dioxide,"('water', 'surface water')",0.0
+1460,"Aluminium, in ground","('natural resource', 'in ground')",6.761973303350968e-05
+1461,Hydrogen peroxide,"('air', 'urban air close to ground')",7.778789711100383e-12
+1462,Chloride,"('soil',)",2.247513339896489e-07
+1463,Water,"('air', 'lower stratosphere + upper troposphere')",2.1561453491774728e-13
+1464,"Zinc, ion","('water', 'ocean')",3.67968006794467e-08
+1465,Isoprene,"('air', 'non-urban air or from high stacks')",1.3970148399799827e-11
+1466,"Copper, ion","('water', 'ground-')",4.838764476408757e-09
+1467,Lead-210,"('water',)",2.2609671233089038e-07
+1468,o-Xylene,"('air',)",6.914676371627777e-09
+1469,Methyl formate,"('air', 'urban air close to ground')",2.5568320820613233e-14
+1470,Benzene,"('water',)",2.7235335318510633e-09
+1471,Endosulfan,"('soil', 'agricultural')",5.1871819305409475e-11
+1472,Aldicarb,"('soil', 'agricultural')",2.071033400950768e-11
+1473,Tungsten,"('water', 'ground-, long-term')",1.513762216810943e-07
+1474,Bromine,"('water',)",1.674790454095993e-07
+1475,"Occupation, forest, extensive","('natural resource', 'land')",0.00015550552093341127
+1476,Maleic anhydride,"('water',)",0.0
+1477,"2,4-D ester","('air', 'non-urban air or from high stacks')",1.6473777904843714e-21
+1478,Nickel,"('air', 'non-urban air or from high stacks')",5.2430192508779606e-08
+1479,Simazine,"('soil', 'agricultural')",5.389576959375063e-15
+1480,Oxygen,"('natural resource', 'in air')",0.0009960082982215278
+1481,Nitrate,"('water', 'ground-, long-term')",1.7129793164906335e-05
+1482,Propene,"('air',)",7.781016283604181e-12
+1483,Azoxystrobin,"('soil', 'agricultural')",2.803669606979506e-13
+1484,"Carboxylic acids, unspecified","('water',)",1.810261175257785e-13
+1485,Fluoranthene,"('air',)",2.0921366419817453e-13
+1486,Dinitrogen monoxide,"('air', 'urban air close to ground')",3.1608017952973713e-07
+1487,Fluoride,"('water', 'surface water')",4.713771110644423e-08
+1488,"Gold, Au 6.7E-4%, in ore, in ground","('natural resource', 'in ground')",4.305793680835903e-11
+1489,Quizalofop ethyl ester,"('soil', 'agricultural')",2.4005950792327165e-15
+1490,"Zinc, ion","('water',)",8.220307989450899e-09
+1491,"Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore, in ground","('natural resource', 'in ground')",2.4379523943449835e-07
+1492,Lauric acid,"('air',)",0.0
+1493,Plutonium-alpha,"('air', 'non-urban air or from high stacks')",2.1747398842235746e-14
+1494,Sulfur dioxide,"('air', 'non-urban air or from high stacks')",6.763154506544116e-05
+1495,Vanadium,"('air', 'non-urban air or from high stacks')",1.8490459904362764e-09
+1496,Potassium-40,"('air', 'urban air close to ground')",1.7999450873980687e-07
+1497,Sulfite,"('water', 'surface water')",1.1819804928583734e-08
+1498,"BOD5, Biological Oxygen Demand","('water', 'ground-, long-term')",0.0001550162545362626
+1499,Ethanol,"('air', 'urban air close to ground')",3.931086329780022e-09
+1500,Tetramethyl ammonium hydroxide,"('air', 'urban air close to ground')",8.549554172385267e-14
+1501,Tellurium-132,"('water', 'surface water')",2.442010802906019e-10
+1502,Sodium hydroxide,"('air',)",0.0
+1503,"Bromine, 0.23% in water","('natural resource', 'in water')",4.93178143650063e-10
+1504,"Transformation, from permanent crop","('natural resource', 'land')",2.8751715324767605e-07
+1505,tau-Fluvalinate,"('soil', 'agricultural')",0.0
+1506,Polonium-210,"('water', 'ground-')",1.3769556030233063e-09
+1507,"Benzene, hexachloro-","('air', 'urban air close to ground')",3.8295086243288994e-14
+1508,Epichlorohydrin,"('water',)",5.420515767280804e-09
+1509,"Discarded fish, demersal, to ocean","('water', 'ocean')",0.0
+1510,Cadmium,"('air', 'non-urban air or from high stacks')",7.860090034788266e-09
+1511,Flutolanil,"('soil', 'agricultural')",0.0
+1512,Mefenpyr,"('soil', 'agricultural')",2.861917505015054e-16
+1513,Fenpropimorph,"('soil', 'agricultural')",7.816822685073591e-15
+1514,Mercury,"('water', 'ground-, long-term')",4.748450920496287e-09
+1515,"Granite, in ground","('natural resource', 'in ground')",9.477616898670033e-15
+1516,"Nitrogen, organic bound","('water', 'ocean')",4.6571371756031397e-08
+1517,Acetone,"('air', 'non-urban air or from high stacks')",2.7655821435254136e-08
+1518,"Borax, in ground","('natural resource', 'in ground')",9.257825269760404e-09
+1519,"Transformation, to arable land, unspecified use","('natural resource', 'land')",2.2701377367205376e-06
+1520,"Occupation, annual crop, greenhouse","('natural resource', 'land')",0.0
+1521,"Transformation, from forest, extensive","('natural resource', 'land')",1.650161817126512e-05
+1522,"Water, lake","('natural resource', 'in water')",2.2760214863243258e-05
+1523,Phenol,"('water', 'surface water')",1.3809942796288986e-07
+1524,"Fluorine, 4.5% in apatite, 3% in crude ore, in ground","('natural resource', 'in ground')",4.9454563838218926e-08
+1525,1-Pentene,"('air', 'urban air close to ground')",1.1617527934833e-12
+1526,"Transformation, to traffic area, road network","('natural resource', 'land')",5.737896463611561e-06
+1527,Fluosilicic acid,"('air', 'urban air close to ground')",1.0821713108089998e-09
+1528,Boron,"('water', 'ground-')",4.1604515919893197e-07
+1529,Magnesium,"('soil', 'agricultural')",3.966567460012194e-08
+1530,"AOX, Adsorbable Organic Halogen as Cl","('water',)",1.6827999625087758e-11
+1531,2-Methyl-1-propanol,"('water', 'surface water')",1.2613609515519573e-13
+1532,Tribufos,"('soil', 'agricultural')",5.279497225104356e-13
+1533,"Transformation, from unspecified","('natural resource', 'land')",4.643436243558857e-05
+1534,Cyanide,"('air', 'urban air close to ground')",2.1208619535659076e-09
+1535,Dimethyldichlorosilane,"('water',)",0.0
+1536,Cyclohexane,"('air', 'urban air close to ground')",6.448561345883128e-18
+1537,"Copper, ion","('water', 'surface water')",3.5814825546891722e-09
+1538,Boron,"('water',)",2.4530755114451677e-09
+1539,"Water, well, in ground","('natural resource', 'in water')",9.265382745929386e-05
+1540,"Water, river","('natural resource', 'in water')",0.00012314054232827839
+1541,Argon-40,"('air',)",2.5991693994380766e-06
+1542,Chlorine,"('soil',)",9.464494781216796e-09
+1543,Methyl acrylate,"('air', 'urban air close to ground')",1.0596239630465283e-11
+1544,Hypochlorite,"('water', 'ocean')",2.0261478715747822e-09
+1545,Antimony-125,"('water', 'surface water')",1.3996794015420467e-07
+1546,Chromium-51,"('air', 'non-urban air or from high stacks')",5.879471853923856e-11
+1547,Imazamox,"('air', 'non-urban air or from high stacks')",3.0264516164580685e-14
+1548,"Transformation, from shrub land, sclerophyllous","('natural resource', 'land')",1.2389759145658138e-06
+1549,"Gold, Au 1.8E-4%, in mixed ore, in ground","('natural resource', 'in ground')",4.5336673794309175e-12
+1550,Radon-222,"('air',)",1.8840572224456226e-08
+1551,Methyl amine,"('water', 'surface water')",1.0625764684484773e-13
+1552,Lauric acid,"('water',)",3.825585093588452e-12
+1553,Krypton-89,"('air', 'non-urban air or from high stacks')",6.83595414574886e-06
+1554,"Particulates, < 2.5 um","('air',)",1.094167734694069e-05
+1555,Flumioxazin,"('air', 'non-urban air or from high stacks')",2.0465040608258705e-13
+1556,Phosphorus,"('soil', 'agricultural')",1.1979447463455675e-08
+1557,Isocyanic acid,"('air', 'urban air close to ground')",6.406019892704548e-09
+1558,Phenol,"('air',)",1.3225522817485988e-10
+1559,Lead-210,"('water', 'ocean')",1.459952704601635e-12
+1560,Maneb,"('soil', 'agricultural')",0.0
+1561,"TiO2, 95% in rutile, 0.40% in crude ore, in ground","('natural resource', 'in ground')",2.1798768404443437e-07
+1562,Flumioxazin,"('soil', 'agricultural')",6.50939511193399e-14
+1563,Pronamide,"('soil', 'agricultural')",0.0
+1564,"Discarded fish, pelagic, to ocean","('water', 'ocean')",4.3310191111728845e-21
+1565,Methanol,"('air', 'urban air close to ground')",1.3028088798314892e-08
+1566,"Particulates, < 2.5 um","('air', 'non-urban air or from high stacks')",1.9431667618655536e-05
+1567,Selenium,"('air', 'non-urban air or from high stacks')",3.5155570840084263e-09
+1568,"Transformation, from mineral extraction site","('natural resource', 'land')",8.591709687781758e-06
+1569,Silver,"('air',)",6.13271030466554e-13
+1570,Chrysene,"('water', 'surface water')",2.4670368976556893e-15
+1571,"Ethane, 1,2-dichloro-","('air', 'urban air close to ground')",8.215835034297578e-10
+1572,"Carbon dioxide, fossil","('air', 'urban air close to ground')",0.004588382345563908
+1573,Carbofuran,"('soil', 'agricultural')",2.5748623405413245e-10
+1574,"Ethane, hexafluoro-, HFC-116","('air',)",1.6497391349357586e-10
+1575,Pyrethrin,"('soil', 'agricultural')",0.0
+1576,"Butylcarbamate, iodopropynyl","('water', 'surface water')",0.0
+1577,Sulfur hexafluoride,"('air', 'urban air close to ground')",1.4257250705268577e-17
+1578,Thallium,"('water',)",1.857047012478255e-12
+1579,Radium-228,"('air',)",4.79177885493597e-10
+1580,Ethanol,"('water',)",4.223845463764661e-15
+1581,Potassium-40,"('water', 'ground-')",1.0936961623968673e-10
+1582,Diflubenzuron,"('air', 'non-urban air or from high stacks')",6.316622986982982e-15
+1583,Potassium,"('water', 'ground-')",5.442431179172843e-09
+1584,"Carbon dioxide, non-fossil","('air',)",0.0028186603100825323
+1585,Manganese,"('air', 'non-urban air or from high stacks')",1.1782761916257829e-08
+1586,Nickel,"('air',)",3.6908808968579857e-09
+1587,Tebuconazole,"('air', 'non-urban air or from high stacks')",6.497042540116848e-23
+1588,Dinitrogen monoxide,"('air', 'lower stratosphere + upper troposphere')",5.216225996826814e-15
+1589,"Transformation, to wetland, inland (non-use)","('natural resource', 'land')",3.692835252353681e-22
+1590,Flumiclorac-pentyl,"('air', 'non-urban air or from high stacks')",2.0231488749629536e-14
+1591,Chloride,"('water', 'ocean')",1.2277972808659668e-05
+1592,Lead,"('air', 'lower stratosphere + upper troposphere')",3.477480238425549e-18
+1593,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air',)",4.4327665820682e-12
+1594,Vanadium,"('soil', 'agricultural')",4.8284505619275464e-11
+1595,Thifensulfuron-methyl,"('soil', 'agricultural')",3.842284081867259e-16
+1596,Hydrazine,"('water',)",0.0
+1597,"Transformation, to forest, unspecified","('natural resource', 'land')",9.02311084185596e-06
+1598,Heptane,"('air',)",5.1860118739209794e-09
+1599,Mercury,"('soil', 'industrial')",4.753054864085385e-11
+1600,Lead,"('soil', 'industrial')",8.159487122853356e-09
+1601,Hydramethylnon,"('soil', 'agricultural')",0.0
+1602,"Ulexite, in ground","('natural resource', 'in ground')",4.0838218578646586e-09
+1603,Cyanide,"('air',)",1.894952829433746e-15
+1604,Fluoride,"('water',)",8.000589554037396e-09
+1605,"Occupation, annual crop, non-irrigated, extensive","('natural resource', 'land')",7.824742529837372e-09
+1606,Ethylene diamine,"('water', 'surface water')",3.8374189266791505e-13
+1607,"Carbon monoxide, non-fossil","('air', 'non-urban air or from high stacks')",6.072297605351383e-07
+1608,Chromium,"('soil',)",6.971080770321633e-10
+1609,"Transformation, to lake, artificial","('natural resource', 'land')",5.928596488959895e-06
+1610,Nitrogen oxides,"('air', 'urban air close to ground')",8.697376967594191e-06
+1611,Cadmium,"('air', 'low population density, long-term')",2.643372302170399e-11
+1612,"Methane, dichloro-, HCC-30","('air', 'non-urban air or from high stacks')",1.432056517139147e-10
+1613,"Water, salt, ocean","('natural resource', 'in water')",3.9439042466269035e-06
+1614,"Hydrocarbons, unspecified","('soil',)",8.087327989448587e-11
+1615,Cyhalothrin,"('soil', 'agricultural')",0.0
+1616,Pyraclostrobin,"('water', 'surface water')",1.0093616498062407e-21
+1617,Fluazifop,"('soil', 'agricultural')",0.0
+1618,Propachlor,"('soil', 'agricultural')",0.0
+1619,"Heat, waste","('water', 'ground-, long-term')",0.023456028496550513
+1620,Mercury,"('air', 'low population density, long-term')",8.686237295057121e-12
+1621,"Transformation, from annual crop, irrigated, intensive","('natural resource', 'land')",0.0
+1622,Radon-222,"('air', 'non-urban air or from high stacks')",0.09266061369959448
+1623,Hydrogen fluoride,"('air', 'low population density, long-term')",1.792575632065236e-10
+1624,Phosphate,"('water', 'ocean')",2.9813771829687117e-09
+1625,"Tin, ion","('water', 'surface water')",6.372974172669104e-11
+1626,"Noble gases, radioactive, unspecified","('air', 'non-urban air or from high stacks')",0.6695060185501475
+1627,"Hydrocarbons, aliphatic, unsaturated","('air',)",1.668700346163416e-11
+1628,"Transformation, to annual crop, non-irrigated","('natural resource', 'land')",1.1662837646001394e-08
+1629,Glyphosate,"('air', 'non-urban air or from high stacks')",1.5211937015227374e-10
+1630,"Radioactive species, other beta emitters","('air', 'non-urban air or from high stacks')",5.831016743604695e-10
+1631,"Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore, in ground","('natural resource', 'in ground')",1.1463712901015078e-05
+1632,Thorium,"('air',)",1.1143995020271746e-16
+1633,Paraffins,"('air', 'urban air close to ground')",0.0
+1634,Primisulfuron,"('soil', 'agricultural')",2.668179882125434e-16
+1635,Titanium,"('air', 'non-urban air or from high stacks')",2.42343957437946e-10
+1636,Acetyl chloride,"('water', 'surface water')",2.6296664430090973e-14
+1637,Copper,"('air', 'lower stratosphere + upper troposphere')",2.9559772558860115e-16
+1638,Fipronil,"('soil', 'agricultural')",6.755371796946001e-12
+1639,Zirconium-95,"('water', 'surface water')",1.1744174114316964e-06
+1640,2-Aminopropanol,"('water', 'surface water')",1.9912324114572913e-14
+1641,Molybdenum,"('air', 'urban air close to ground')",2.79983970427085e-10
+1642,Iodide,"('water', 'ground-, long-term')",9.213340371782623e-11
+1643,Picloram,"('soil', 'agricultural')",8.541587275502408e-18
+1644,Sulfentrazone,"('air', 'non-urban air or from high stacks')",4.849134242020046e-13
+1645,"Transformation, to dump site, slag compartment","('natural resource', 'land')",5.523629241173232e-09
+1646,Phosphorus trichloride,"('air',)",0.0
+1647,Mercury,"('air', 'urban air close to ground')",1.0468699178775137e-10
+1648,"Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore, in ground","('natural resource', 'in ground')",1.0134067460332942e-05
+1649,Uranium-235,"('air', 'non-urban air or from high stacks')",1.5151256999286345e-08
+1650,"Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore, in ground","('natural resource', 'in ground')",9.291187953473276e-07
+1651,"Cobalt, in ground","('natural resource', 'in ground')",1.934311055891679e-10
+1652,"Methane, monochloro-, R-40","('air',)",0.0
+1653,"TOC, Total Organic Carbon","('water', 'ground-')",2.563740194181522e-07
+1654,"Methane, dichlorofluoro-, HCFC-21","('air', 'urban air close to ground')",1.812799631770852e-14
+1655,Chlorimuron-ethyl,"('soil', 'agricultural')",1.1757022651584361e-13
+1656,Acifluorfen,"('soil', 'agricultural')",2.9495737295159057e-15
+1657,Boron,"('air', 'urban air close to ground')",6.0149679351730466e-09
+1658,Nitrite,"('water',)",1.0103940880643731e-11
+1659,Chromium VI,"('air', 'low population density, long-term')",5.581676956822952e-11
+1660,"Methane, dichlorodifluoro-, CFC-12","('air',)",8.072006723061277e-17
+1661,Glyphosate,"('water', 'ground-')",1.0668143793554987e-13
+1662,"Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ocean')",2.57011200556032e-09
+1663,Cesium-136,"('water', 'surface water')",8.149703542110499e-10
+1664,t-Butyl methyl ether,"('air', 'urban air close to ground')",4.372209467583302e-09
+1665,Flumiclorac-pentyl,"('soil', 'agricultural')",8.668691313914645e-16
+1666,Propene,"('water', 'surface water')",8.07663923190906e-08
+1667,"Chromium, ion","('water',)",2.993969853439036e-09
+1668,Propanal,"('air',)",3.98356278646223e-15
+1669,Quizalofop-ethyl,"('air', 'non-urban air or from high stacks')",2.3559610854592333e-14
+1670,Aniline,"('water',)",7.441284546080798e-11
+1671,Chromium,"('soil', 'industrial')",1.6278892152953057e-09
+1672,Chromium VI,"('air', 'non-urban air or from high stacks')",4.002073949233814e-09
+1673,Ethene,"('water', 'surface water')",7.3373173086634604e-09
+1674,MCPB,"('water', 'ground-')",1.5873267495328725e-23
+1675,"Aldehydes, unspecified","('air', 'non-urban air or from high stacks')",5.524248213230653e-10
+1676,Benzo(ghi)perylene,"('air',)",1.6725551506901774e-15
+1677,"Titanium, ion","('water', 'ground-, long-term')",2.3086637599397246e-06
+1678,2-Propanol,"('water', 'surface water')",9.285607126009691e-14
+1679,Diethylamine,"('air', 'urban air close to ground')",1.162942593257968e-13
+1680,"Rhenium, in crude ore, in ground","('natural resource', 'in ground')",1.3768051516654087e-12
+1681,Nitrate,"('air', 'non-urban air or from high stacks')",1.8691752408798297e-09
+1682,Naphtalene,"('air',)",3.7101175546147455e-12
+1683,"Transformation, to dump site, residual material landfill","('natural resource', 'land')",1.2409089692804256e-07
+1684,"Occupation, urban/industrial fallow (non-use)","('natural resource', 'land')",3.5607400503425668e-09
+1685,"Potassium, ion","('water', 'ocean')",1.5580533653910363e-07
+1686,Niobium-95,"('air', 'non-urban air or from high stacks')",2.868435098106926e-06
+1687,Acetone,"('air', 'urban air close to ground')",6.114085764216584e-09
+1688,"Chromium, ion","('water', 'ground-')",4.4283438207487077e-10
+1689,Tin,"('air', 'non-urban air or from high stacks')",3.924442029592435e-09
+1690,"Ethane, 1,1-difluoro-, HFC-152a","('air', 'non-urban air or from high stacks')",5.267554929892009e-12
+1691,Magnesium,"('water',)",4.901225102658439e-07
+1692,Molybdenum,"('air', 'low population density, long-term')",1.53621958156984e-10
+1693,Acetamide,"('air', 'non-urban air or from high stacks')",1.2339359015587189e-13
+1694,4-Methyl-2-pentanone,"('water',)",3.2756931097135184e-12
+1695,Xenon-138,"('air', 'non-urban air or from high stacks')",0.00013966208406351326
+1696,Deltamethrin,"('soil', 'agricultural')",1.242634709851167e-15
+1697,"Titanium, ion","('water',)",2.304413481573245e-09
+1698,Trifluralin,"('air', 'non-urban air or from high stacks')",6.9841938347944135e-12
+1699,Bromopropane,"('air',)",0.0
+1700,Butane,"('air', 'non-urban air or from high stacks')",5.0000257070040516e-08
+1701,Propamocarb HCl,"('soil', 'agricultural')",0.0
+1702,Radium-226,"('air', 'urban air close to ground')",1.669001003556863e-07
+1703,Benzo(ghi)perylene,"('water', 'surface water')",6.377959975376827e-17
+1704,Dissolved solids,"('water', 'surface water')",8.26989411633538e-06
+1705,Anthracene,"('water', 'surface water')",1.0135888212485799e-12
+1706,"Volume occupied, final repository for radioactive waste","('natural resource', 'in ground')",5.811700999801276e-11
+1707,Chlorine,"('air',)",9.514708463546026e-09
+1708,Thorium-232,"('water', 'surface water')",1.4180403716274795e-07
+1709,Titanium,"('soil', 'industrial')",8.471357298676691e-09
+1710,Barium,"('water', 'surface water')",3.3956554794066816e-07
+1711,1-Pentanol,"('air', 'urban air close to ground')",1.3947720875577794e-14
+1712,Methanol,"('water',)",5.143500008198966e-10
+1713,Dipropylamine,"('air', 'urban air close to ground')",6.959561805769488e-14
+1714,Benzene,"('water', 'ocean')",3.970928269314957e-09
+1715,Acenaphthylene,"('water', 'ocean')",7.690566263081044e-15
+1716,Sulfide,"('water', 'surface water')",1.0361499326471588e-09
+1717,Beryllium,"('air', 'urban air close to ground')",1.3202379036834445e-11
+1718,Antimony,"('air',)",3.1825633562232303e-07
+1719,Cyanide,"('air', 'non-urban air or from high stacks')",8.026788976904054e-09
+1720,Aluminium,"('air', 'non-urban air or from high stacks')",2.1003022718375047e-09
+1721,Tralkoxydim,"('soil', 'agricultural')",2.998853273587143e-17
+1722,Tin,"('air', 'urban air close to ground')",1.0816460176909512e-11
+1723,EPTC,"('soil', 'agricultural')",0.0
+1724,Nitrate,"('water', 'surface water')",7.967967467854831e-07
+1725,Zeta-cypermethrin,"('air', 'non-urban air or from high stacks')",2.91162144019441e-14
+1726,"Lithium, ion","('water',)",8.398581412787068e-07
+1727,Cobalt,"('air', 'low population density, long-term')",7.209350328498332e-11
+1728,2-Nitrobenzoic acid,"('air', 'urban air close to ground')",1.5276540201605174e-14
+1729,Molybdenum,"('soil', 'industrial')",1.6969769625471875e-10
+1730,Uranium-235,"('water', 'surface water')",9.469978065451857e-07
+1731,Silver,"('air', 'low population density, long-term')",1.2981071022656762e-11
+1732,Diclofop,"('soil', 'agricultural')",1.4931001681178876e-15
+1733,2-chlorobenzaldehyde,"('water',)",0.0
+1734,Nitrite,"('water', 'ground-, long-term')",3.191827931092671e-08
+1735,Lead-210,"('water', 'ground-')",9.048565587321572e-10
+1736,Polonium-210,"('air',)",1.1423560081753405e-08
+1737,Pirimiphos methyl,"('soil', 'agricultural')",0.0
+1738,"2,4-D amines","('air', 'non-urban air or from high stacks')",5.96918589405955e-22
+1739,"Transformation, to annual crop, irrigated, intensive","('natural resource', 'land')",7.1260383345668e-10
+1740,Metam-sodium,"('soil', 'agricultural')",2.7549975617693342e-12
+1741,Diethylene glycol,"('water', 'surface water')",0.0
+1742,Propanal,"('air', 'non-urban air or from high stacks')",6.784225609700779e-11
+1743,Aluminium,"('water', 'surface water')",8.070651170768288e-08
+1744,Fosetyl,"('soil', 'agricultural')",0.0
+1745,Imazethapyr,"('air', 'non-urban air or from high stacks')",1.9968740921559802e-13
+1746,Quizalofop-p-ethyl,"('soil', 'agricultural')",0.0
+1747,Paraffins,"('air', 'non-urban air or from high stacks')",0.0
+1748,Manganese,"('water',)",3.271893292979301e-09
+1749,Aluminium,"('water', 'ocean')",2.5112257401325494e-08
+1750,Nitrogen oxides,"('air', 'low population density, long-term')",1.6182312865354684e-12
+1751,"Anhydrite, in ground","('natural resource', 'in ground')",1.1054240901454882e-09
+1752,"Calcite, in ground","('natural resource', 'in ground')",0.10131699408984957
+1753,Acrolein,"('air',)",3.0601610700438967e-08
+1754,"Transformation, from seabed, infrastructure","('natural resource', 'land')",2.1988066339874595e-11
+1755,Carbon disulfide,"('air', 'non-urban air or from high stacks')",5.695713329543603e-07
+1756,Hydrogen sulfide,"('water', 'surface water')",1.871625510153322e-09
+1757,Methyl borate,"('air', 'urban air close to ground')",1.1891000026117486e-14
+1758,Flusilazole,"('soil', 'agricultural')",7.497321182974435e-16
+1759,"Transformation, to traffic area, rail/road embankment","('natural resource', 'land')",1.7423272916168816e-06
+1760,Acrinathrin,"('soil', 'agricultural')",1.4573070525347927e-24
+1761,Chromium VI,"('water',)",3.0345740944539354e-10
+1762,"Radioactive species, Nuclides, unspecified","('water', 'surface water')",6.45913938608185e-07
+1763,"PAH, polycyclic aromatic hydrocarbons","('air', 'urban air close to ground')",6.116683181098925e-08
+1764,"Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","('natural resource', 'in ground')",2.155847069069167e-12
+1765,Captan,"('soil', 'agricultural')",0.0
+1766,"TOC, Total Organic Carbon","('water', 'ground-, long-term')",0.0005781945800116429
+1767,"COD, Chemical Oxygen Demand","('water', 'surface water')",7.200450994634405e-05
+1768,Bromoxynil,"('water', 'surface water')",2.9690247566144738e-24
+1769,"Chromium, 25.5% in chromite, 11.6% in crude ore, in ground","('natural resource', 'in ground')",4.686535597723292e-05
+1770,Formaldehyde,"('air', 'non-urban air or from high stacks')",3.69932342534654e-08
+1771,"Methane, tetrachloro-, R-10","('air', 'urban air close to ground')",3.6426709736201864e-11
+1772,Radium-228,"('water',)",1.4555899194957538e-06
+1773,Methoxyfenozide,"('soil', 'agricultural')",0.0
+1774,Dimethenamid,"('air', 'non-urban air or from high stacks')",2.490900356945966e-19
+1775,Manganese,"('water', 'ground-')",1.0045231149758253e-07
+1776,Magnesium,"('soil',)",1.8289241461992667e-08
+1777,Antimony,"('water',)",8.808095999992795e-12
+1778,Hydrogen sulfide,"('water', 'ground-')",1.2300422404373565e-10
+1779,Platinum,"('air',)",2.5472162919954858e-11
+1780,"Occupation, arable land, unspecified use","('natural resource', 'land')",6.344952793114785e-24
+1781,"Steatite, in ground","('natural resource', 'in ground')",0.0
+1782,Chloroacetic acid,"('air', 'urban air close to ground')",4.444729750429567e-12
+1783,m-Xylene,"('air',)",1.6941154574101434e-08
+1784,t-Butyl methyl ether,"('water', 'surface water')",6.944786540788711e-11
+1785,Elemental carbon,"('soil',)",2.2963689078666202e-10
+1786,Foramsulfuron,"('soil', 'agricultural')",8.004318031320164e-17
+1787,"TOC, Total Organic Carbon","('water', 'ocean')",2.88911225797182e-06
+1788,"Occupation, seabed, infrastructure","('natural resource', 'land')",1.108258723400812e-08
+1789,Sulfate,"('water', 'surface water')",2.952894398495676e-05
+1790,Fluorene,"('water', 'surface water')",7.401110646581907e-12
+1791,Diethylene glycol,"('air', 'urban air close to ground')",1.2883874873233895e-17
+1792,Sulfur trioxide,"('air',)",4.382716450320662e-12
+1793,Butadiene,"('air', 'non-urban air or from high stacks')",8.904248095137305e-16
+1794,Cobalt-57,"('water', 'surface water')",2.5870232937718906e-08
+1795,Chloroform,"('air', 'urban air close to ground')",3.769279335031678e-11
+1796,Diphenyltin,"('water', 'ocean')",3.42435159930454e-29
+1797,Antimony,"('water', 'ground-')",8.607903308567444e-10
+1798,Propanil,"('soil', 'agricultural')",2.512754515385232e-13
+1799,Formaldehyde,"('water', 'surface water')",1.0011808279832489e-08
+1800,Magnesium,"('air', 'non-urban air or from high stacks')",8.192788843890129e-09
+1801,"Gold, Au 1.0E-7%, in mixed ore, in ground","('natural resource', 'in ground')",5.792772028811994e-14
+1802,Dimethyl hexynediol,"('water',)",0.0
+1803,"Energy, potential (in hydropower reservoir), converted","('natural resource', 'in water')",0.04090132301569169
+1804,"Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore, in ground","('natural resource', 'in ground')",1.015024143289029e-06
+1805,Chromium VI,"('water', 'surface water')",1.4197651836938744e-07
+1806,"Palladium, Pd 1.6E-6%, in mixed ore, in ground","('natural resource', 'in ground')",9.192464181040023e-13
+1807,"Methane, dichloro-, HCC-30","('water', 'surface water')",5.245476721385613e-09
+1808,"Methane, bromotrifluoro-, Halon 1301","('air', 'urban air close to ground')",5.771443460042367e-16
+1809,Ethene,"('air', 'urban air close to ground')",6.571763549819952e-08
+1810,"Transformation, to pasture, man made, intensive","('natural resource', 'land')",2.457327328397391e-09
+1811,"Hydrocarbons, aromatic","('air',)",1.2909968764911556e-07
+1812,"Sodium nitrate, in ground","('natural resource', 'in ground')",1.240885493788786e-13
+1813,Metosulam,"('soil', 'agricultural')",1.3072730081950495e-17
+1814,Benzo(a)pyrene,"('air', 'urban air close to ground')",7.734118890312647e-12
+1815,Lead,"('air', 'low population density, long-term')",1.04493053876964e-09
+1816,Propylene oxide,"('water', 'surface water')",2.7351466428830346e-09
+1817,"Hydrogen-3, Tritium","('water', 'ocean')",0.02689280886546575
+1818,Manganese,"('air',)",1.0439393132087303e-08
+1819,"Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In, in ground","('natural resource', 'in ground')",1.4854680149174115e-05
+1820,Hexane,"('water', 'surface water')",0.0
+1821,Ruthenium-103,"('water', 'surface water')",8.808903137998833e-10
+1822,"Hydrocarbons, aliphatic, unsaturated","('water', 'ocean')",2.3724111925673027e-10
+1823,Acenaphthylene,"('water', 'surface water')",1.6453439363478907e-13
+1824,"Kieserite, 25% in crude ore, in ground","('natural resource', 'in ground')",2.540032603718369e-09
+1825,Pendimethalin,"('soil', 'agricultural')",4.369944730159764e-12
+1826,Strontium,"('air',)",1.7370085725349256e-09
+1827,Esfenvalerate,"('soil', 'agricultural')",3.090665298823387e-15
+1828,"Hydrocarbons, aliphatic, unsaturated","('water', 'surface water')",4.67043096530815e-09
+1829,Sodium,"('soil',)",1.6937046899737107e-07
+1830,Diethylene glycol,"('water',)",0.0
+1831,Tefluthrin,"('water', 'ground-')",3.1258276146711745e-25
+1832,Antimony,"('water', 'surface water')",2.650985690850538e-09
+1833,"Zinc, Zn 0.63%, in mixed ore, in ground","('natural resource', 'in ground')",1.674652510899222e-06
+1834,"2,4-D amines","('soil', 'agricultural')",1.0341257683627485e-19
+1835,Propylamine,"('air', 'urban air close to ground')",1.0959283810550075e-14
+1836,"Oils, unspecified","('soil', 'industrial')",5.61197837541404e-09
+1837,"Lead, Pb 3.6E-1%, in mixed ore, in ground","('natural resource', 'in ground')",6.836981705025768e-09
+1838,Propylene oxide,"('air', 'urban air close to ground')",1.1549561646170754e-09
+1839,Monochloroethane,"('air', 'urban air close to ground')",0.0
+1840,Iodine,"('air', 'non-urban air or from high stacks')",9.04846737007053e-09
+1841,"Carboxylic acids, unspecified","('water', 'ocean')",3.0551179762082575e-07
+1842,Sulfur hexafluoride,"('air', 'non-urban air or from high stacks')",5.0430302988956283e-14
+1843,Sulfur oxides,"('air',)",3.329388132063006e-11
+1844,Antimony,"('soil', 'agricultural')",3.7201264391084624e-14
+1845,Radium-226,"('water', 'ground-')",1.0150130693342977e-09
+1846,"Colemanite, in ground","('natural resource', 'in ground')",4.151538007733008e-08
+1847,Sodium,"('air',)",2.8450039823315647e-08
+1848,Carbon disulfide,"('water', 'surface water')",6.382019353553946e-13
+1849,Nitrogen,"('water', 'surface water')",8.775401708275192e-08
+1850,Water,"('air', 'urban air close to ground')",8.931441807934769e-07
+1851,Formate,"('water', 'surface water')",8.535078754216188e-12
+1852,Cyfluthrin,"('air', 'non-urban air or from high stacks')",1.1998761374243185e-14
+1853,Benomyl,"('soil', 'agricultural')",4.69648987614271e-13
+1854,"Iron, 72% in magnetite, 14% in crude ore, in ground","('natural resource', 'in ground')",1.4456066825076345e-07
+1855,2-Propanol,"('water',)",3.7058918818112084e-10
+1856,Acetaldehyde,"('air', 'urban air close to ground')",7.834843132486769e-08
+1857,Barium-140,"('air', 'non-urban air or from high stacks')",3.78493924043145e-09
+1858,Triphenyltin,"('water', 'ocean')",1.0212978760917043e-29
+1859,Fluquinconazole,"('soil', 'agricultural')",1.866833254751027e-16
+1860,Radium-224,"('water', 'surface water')",1.9459637440353595e-05
+1861,Mercury,"('water', 'ground-')",8.909906408995567e-12
+1862,Cypermethrin,"('soil', 'agricultural')",1.624663846713703e-10
+1863,Anthranilic acid,"('air', 'urban air close to ground')",1.1883115672954345e-14
+1864,"Benzene, pentachloro-","('air', 'urban air close to ground')",9.665022320923747e-14
+1865,Rotenone,"('soil', 'agricultural')",0.0
+1866,Terpenes,"('air', 'non-urban air or from high stacks')",1.3097014275376979e-10
+1867,"Occupation, permanent crop, irrigated, intensive","('natural resource', 'land')",1.904019253983603e-21
+1868,"Chlorinated solvents, unspecified","('air', 'non-urban air or from high stacks')",2.2694633162598386e-11
+1869,Chloride,"('water',)",3.0400721218074086e-05
+1870,Ethyl cellulose,"('air', 'urban air close to ground')",1.047231727019311e-11
+1871,Iron,"('soil', 'agricultural')",3.8507025363900945e-08
+1872,Uranium-234,"('water', 'surface water')",8.487351206723159e-07
+1873,Sulfate,"('soil',)",4.562834792306844e-08
+1874,Fluorine,"('air', 'urban air close to ground')",2.7987765121078996e-10
+1875,"Chlorinated solvents, unspecified","('water', 'surface water')",2.3000200299351602e-10
+1876,Butanol,"('air', 'urban air close to ground')",3.78759806652339e-13
+1877,Fluorene,"('air',)",1.900002034541853e-13
+1878,"Zinc, Zn 3.1%, in mixed ore, in ground","('natural resource', 'in ground')",5.86828777043395e-08
+1879,"Methane, fossil","('air', 'urban air close to ground')",4.260726274469347e-06
+1880,Dichlorprop,"('water', 'ground-')",2.6044411788643304e-21
+1881,Trisodium phosphate,"('air',)",0.0
+1882,Polonium-210,"('water', 'surface water')",6.058899235045097e-07
+1883,Chloropicrin,"('soil', 'agricultural')",1.5544609476501437e-20
+1884,"Transformation, from traffic area, rail/road embankment","('natural resource', 'land')",4.139438518570698e-07
+1885,"Oils, non-fossil","('water', 'ocean')",3.6971438381419566e-22
+1886,Zinc,"('air', 'non-urban air or from high stacks')",7.218684035173138e-08
+1887,Acrolein,"('air', 'urban air close to ground')",2.5494486588800284e-11
+1888,Dinitrogen monoxide,"('air',)",7.114125260459895e-07
+1889,Calcium,"('soil',)",8.699086491672647e-08
+1890,"Sand, unspecified, in ground","('natural resource', 'in ground')",7.04079197394836e-08
+1891,"Vanadium, ion","('water', 'ocean')",1.0048743161568232e-10
+1892,"Silver, ion","('water',)",1.6378493421619842e-09
+1893,Butane,"('air',)",2.5944604359936157e-09
+1894,Antimony-125,"('air', 'non-urban air or from high stacks')",6.786585622141378e-11
+1895,"Arsenic, ion","('water', 'ground-')",2.1118302776303702e-08
+1896,Copper,"('soil', 'industrial')",2.3682436449898402e-09
+1897,Methomyl,"('water', 'surface water')",1.6515124799430324e-25
+1898,Chloroform,"('water', 'surface water')",1.2732852750540418e-12
+1899,Ethephon,"('soil', 'agricultural')",2.3922187372668883e-12
+1900,Fluazifop-P-butyl,"('soil', 'agricultural')",5.477283013567199e-14
+1901,Fenoxaprop ethyl ester,"('soil', 'agricultural')",1.2442450810145904e-16
+1902,"Gravel, in ground","('natural resource', 'in ground')",0.899690170310224
+1903,Glyphosate,"('soil', 'industrial')",2.2189101940165524e-09
+1904,"Occupation, traffic area, road network","('natural resource', 'land')",0.0010245057113977953
+1905,"Silver, Ag 9.7E-4%, in mixed ore, in ground","('natural resource', 'in ground')",1.3171258901851957e-08
+1906,"Gallium, 0.014% in bauxite, in ground","('natural resource', 'in ground')",1.4604767020556323e-14
+1907,"Hydrocarbons, aliphatic, unsaturated","('water',)",8.736001941251205e-19
+1908,"Cyhalothrin, gamma-","('soil', 'agricultural')",5.903040346786001e-15
+1909,Phosphorus,"('water',)",1.7172718891547552e-10
+1910,"Cadmium, 0.30% in sulfide, Cd 0.18%, Pb, Zn, Ag, In, in ground","('natural resource', 'in ground')",4.95023989920266e-07
+1911,"Shale, in ground","('natural resource', 'in ground')",0.007407842444199082
+1912,"Ethane, 1,2-dichloro-","('air',)",0.0
+1913,"Transformation, to grassland, natural (non-use)","('natural resource', 'land')",4.273527442351579e-08
+1914,Isopropylamine,"('water', 'surface water')",4.0250456494402794e-14
+1915,Ethane,"('air', 'non-urban air or from high stacks')",4.389500488226231e-07
+1916,Chromium VI,"('air',)",3.105397241808329e-12
+1917,"PAH, polycyclic aromatic hydrocarbons","('water', 'ground-')",7.115310429246023e-11
+1918,Uranium,"('air', 'urban air close to ground')",2.471144752065566e-11
+1919,Nitric oxide,"('air',)",5.057653959454796e-12
+1920,Quintozene,"('soil', 'agricultural')",0.0
+1921,Dimethenamid,"('water', 'surface water')",1.0989206398427662e-21
+1922,Choline chloride,"('soil', 'agricultural')",9.420579297365784e-15
+1923,Chloride,"('water', 'surface water')",0.0002047581100813328
+1924,TCMTB,"('soil', 'agricultural')",0.0
+1925,"Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore, in ground","('natural resource', 'in ground')",8.034607063481167e-14
+1926,Malathion,"('soil', 'agricultural')",8.68907897438362e-12
+1927,"Solids, inorganic","('water',)",2.447842071149571e-13
+1928,Bromacil,"('soil', 'agricultural')",0.0
+1929,Nicosulfuron,"('soil', 'agricultural')",5.869862898864417e-16
+1930,Barium,"('air', 'low population density, long-term')",5.808859369520603e-10
+1931,"Aerosols, radioactive, unspecified","('air', 'non-urban air or from high stacks')",2.5668154193258466e-08
+1932,Tefluthrin,"('water', 'surface water')",5.2017667794909036e-27
+1933,Radium-228,"('water', 'ocean')",1.9770092130698376e-06
+1934,Potassium,"('soil', 'industrial')",9.216887745571251e-08
+1935,Cesium-134,"('water', 'surface water')",5.418678599397789e-08
+1936,Copper,"('soil', 'agricultural')",2.0486111681930402e-10
+1937,Strontium,"('soil', 'industrial')",2.871032257713749e-09
+1938,Acephate,"('air', 'non-urban air or from high stacks')",5.01262116497847e-13
+1939,2-Propanol,"('air', 'urban air close to ground')",1.1149031005075395e-09
+1940,"Wood, soft, standing","('natural resource', 'biotic')",4.0898141047428095e-06
+1941,Mercury,"('water', 'ocean')",7.613702145671769e-12
+1942,Potassium,"('air', 'non-urban air or from high stacks')",5.551665013724708e-10
+1943,Arsenic,"('air', 'non-urban air or from high stacks')",2.4138960632478012e-08
+1944,Iodine,"('air', 'low population density, long-term')",1.0428023117409203e-16
+1945,Diclofop-methyl,"('soil', 'agricultural')",1.6897106902982366e-15
+1946,"BOD5, Biological Oxygen Demand","('water',)",1.493976107109763e-06
+1947,"Transformation, from pasture, man made","('natural resource', 'land')",1.903373586661311e-06
+1948,Iodine,"('air',)",1.5053091223833274e-11
+1949,"Heat, waste","('air',)",0.0007996363481871011
+1950,Lactic acid,"('water', 'surface water')",1.3084224836463983e-13
+1951,"Titanium, ion","('water', 'ocean')",6.507698383045656e-12
+1952,"Transformation, from heterogeneous, agricultural","('natural resource', 'land')",2.0424127292868067e-09
+1953,"Ammonium, ion","('water',)",9.688549513559643e-09
+1954,Hydroxide,"('water', 'surface water')",3.960303095322099e-10
+1955,Selenium,"('air',)",2.1861252758389423e-10
+1956,Thorium-232,"('air', 'non-urban air or from high stacks')",2.636818523906914e-07
+1957,Acrylonitrile,"('air',)",0.0
+1958,"Oils, unspecified","('water',)",1.479387336250831e-07
+1959,Benzaldehyde,"('air', 'non-urban air or from high stacks')",2.5115667241930305e-10
+1960,Clomazone,"('soil', 'agricultural')",4.513233325650785e-14
+1961,Ammonia,"('air',)",5.447520899980736e-06
+1962,Xylene,"('air',)",7.602716077373222e-08
+1963,"Water, cooling, unspecified natural origin","('natural resource', 'in water')",0.001489464395328857
+1964,"1,4-Butanediol","('air', 'non-urban air or from high stacks')",0.0
+1965,Tungsten,"('water', 'surface water')",1.609328340953674e-09
+1966,"Iron, ion","('water', 'ground-, long-term')",6.749376512518584e-05
+1967,t-Butyl methyl ether,"('water', 'ocean')",1.209006390624768e-10
+1968,"Basalt, in ground","('natural resource', 'in ground')",4.242864172920888e-05
+1969,Naphthalene,"('air',)",9.726935594271821e-17
+1970,Methyl ethyl ketone,"('air', 'non-urban air or from high stacks')",4.0620120498380925e-14
+1971,Prothioconazol,"('water', 'ground-')",2.504279536836102e-24
+1972,"Calcium, ion","('water',)",2.512227529576399e-06
+1973,"Benzene, dichloro","('air', 'urban air close to ground')",1.160355549070242e-13
+1974,Dimethylamine,"('water', 'surface water')",4.408208618275324e-13
+1975,"Nitrogen, organic bound","('water', 'surface water')",1.9602054073968892e-07
+1976,Monoethanolamine,"('air', 'non-urban air or from high stacks')",0.0
+1977,"Carbon dioxide, from soil or biomass stock","('air', 'non-urban air or from high stacks')",3.199881760693185e-05
+1978,"Transformation, from arable land, unspecified use","('natural resource', 'land')",2.1673952227136316e-06
+1979,"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore, in ground","('natural resource', 'in ground')",1.558913757263555e-07
+1980,Profenofos,"('soil', 'agricultural')",8.972045842471312e-13
+1981,"Nitrogen, organic bound","('water', 'ground-, long-term')",9.5844287173378e-07
+1982,Acrylic acid,"('air', 'urban air close to ground')",9.338510275671665e-12
+1983,Arsenic,"('soil', 'industrial')",2.039278605817461e-10
+1984,Asulam,"('soil', 'agricultural')",1.2124975162952726e-18
+1985,Alpha-cypermethrin,"('soil', 'agricultural')",0.0
+1986,"Benzene, hexachloro-","('air', 'non-urban air or from high stacks')",4.06232636784387e-21
+1987,Sulfuric acid,"('air', 'urban air close to ground')",6.075235045853696e-12
+1988,Aniline,"('air', 'urban air close to ground')",2.5520688123331224e-13
+1989,"2,4-D amines","('water', 'surface water')",1.3203031621531994e-23
+1990,1-Pentene,"('water', 'surface water')",2.5296325145662487e-14
+1991,Cobalt-58,"('air', 'non-urban air or from high stacks')",8.865937221544035e-11
+1992,Nickel,"('air', 'low population density, long-term')",1.6771450442692417e-10
+1993,Potassium-40,"('water', 'ocean')",2.1361413291412253e-08
+1994,Hydrogen fluoride,"('air', 'urban air close to ground')",1.868897672198973e-08
+1995,Paraffins,"('water', 'surface water')",0.0
+1996,Mercury,"('soil', 'agricultural')",2.9418978097987086e-13
+1997,Atrazine,"('air', 'non-urban air or from high stacks')",3.851685629911782e-13
+1998,"Tin, ion","('water', 'ground-, long-term')",1.0731558291509693e-07
+1999,Cadmium,"('air', 'urban air close to ground')",3.861405480083889e-10
+2000,Epoxiconazole,"('soil', 'agricultural')",1.7202749456946795e-15
+2001,"Radioactive species, alpha emitters","('water', 'surface water')",4.945466501467116e-09
+2002,"Gadolinium, 0.15% in bastnasite, 0.015% in crude ore, in ground","('natural resource', 'in ground')",3.838240657077669e-16
+2003,"Benzene, chloro-","('water', 'surface water')",1.2205059224066021e-09
+2004,Fenoxaprop-P ethyl ester,"('soil', 'agricultural')",3.9939286468695725e-17
+2005,Tefluthrin,"('soil', 'agricultural')",1.7728992270810115e-15
+2006,Nitrobenzene,"('water', 'surface water')",3.198986919045381e-10
+2007,Toluene,"('water', 'ocean')",8.20631748722557e-09
+2008,Ethyne,"('air',)",1.3466172508159362e-10
+2009,Chlorine,"('water', 'surface water')",2.8149917953655822e-11
+2010,"Sylvite, 25 % in sylvinite, in ground","('natural resource', 'in ground')",4.6328031939189583e-07
+2011,Selenium,"('soil', 'industrial')",1.352459331569662e-11
+2012,Cobalt-58,"('water', 'surface water')",3.582550474807133e-06
+2013,Polychlorinated biphenyls,"('air',)",4.294263658007645e-11
+2014,"Methane, dichlorodifluoro-, CFC-12","('air', 'urban air close to ground')",1.671782723258142e-12
+2015,"Sodium chloride, in ground","('natural resource', 'in ground')",4.506995422766034e-05
+2016,Diazinon,"('soil', 'agricultural')",0.0
+2017,Hydrogen sulfide,"('air',)",4.903758274320429e-08
+2018,Thorium-228,"('water', 'ground-')",1.1094328055511383e-11
+2019,"2,4-D amines","('water', 'ground-')",3.2172904869512725e-21
+2020,Vanadium,"('air', 'urban air close to ground')",1.8962430478781366e-08
+2021,"Copper, ion","('water', 'ground-, long-term')",2.1995464485135707e-06
+2022,"Occupation, construction site","('natural resource', 'land')",2.973192378334568e-06
+2023,"Calcium, ion","('water', 'ground-')",5.782769536842342e-06
+2024,MCPA,"('air', 'non-urban air or from high stacks')",1.6129235992092394e-21
+2025,Potassium,"('soil', 'agricultural')",6.662039421517557e-08
+2026,Chromium,"('air', 'lower stratosphere + upper troposphere')",8.693717545360447e-18
+2027,"Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","('natural resource', 'in ground')",2.5640422908574855e-12
+2028,"Energy, gross calorific value, in biomass, primary forest","('natural resource', 'biotic')",3.403484523725495e-05
+2029,"Platinum, Pt 4.7E-7%, in mixed ore, in ground","('natural resource', 'in ground')",2.658977365297574e-13
+2030,Arsenic,"('soil', 'agricultural')",9.90920200704498e-12
+2031,"Acidity, unspecified","('water', 'surface water')",2.19580143922048e-09
+2032,"DOC, Dissolved Organic Carbon","('water', 'ground-, long-term')",0.0005781945800115062
+2033,"Hydrocarbons, aromatic","('air', 'urban air close to ground')",2.2706847816995902e-08
+2034,"Transformation, to mineral extraction site","('natural resource', 'land')",3.5003821915602544e-05
+2035,"Pyrite, in ground","('natural resource', 'in ground')",0.0
+2036,Trichlorfon,"('soil', 'agricultural')",0.0
+2037,Dodecanol,"('water',)",0.0
+2038,"Ethene, chloro-","('air', 'urban air close to ground')",5.08341602729671e-10
+2039,Calcium,"('air',)",2.9681937420027562e-08
+2040,Prothioconazol,"('soil', 'agricultural')",3.2430259395473785e-14
+2041,"Methane, fossil","('air', 'non-urban air or from high stacks')",6.433561436439229e-05
+2042,Propionic acid,"('water', 'surface water')",1.1865989414381578e-12
+2043,Cobalt,"('soil',)",3.213225391853785e-10
+2044,Pirimicarb,"('soil', 'agricultural')",8.593538562394383e-13
+2045,Cobalt,"('water', 'ground-, long-term')",7.118119510455076e-07
+2046,Propanal,"('water', 'surface water')",4.287630154344261e-14
+2047,Thiamethoxam,"('soil', 'agricultural')",5.532161671200139e-14
+2048,"COD, Chemical Oxygen Demand","('water',)",1.5879025755045295e-06
+2049,Strontium,"('water', 'surface water')",7.042106368646602e-07
+2050,Bromoxynil,"('water', 'ground-')",1.4924318656854756e-21
+2051,Uranium-234,"('air', 'non-urban air or from high stacks')",4.394611057854212e-07
+2052,MCPB,"('soil', 'agricultural')",9.316444621523582e-17
+2053,"Transformation, to annual crop","('natural resource', 'land')",1.1355334397189957e-06
+2054,Atrazine,"('water', 'ground-')",8.587684226837588e-18
+2055,Molybdenum,"('air',)",3.1704176024480874e-08
+2056,Sulfate,"('water',)",3.1805738938129684e-07
+2057,"Fluorine, 4.5% in apatite, 1% in crude ore, in ground","('natural resource', 'in ground')",1.4561206512648586e-07
+2058,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air',)",1.5005425788863456e-12
+2059,Fluroxypyr,"('soil', 'agricultural')",3.1328065423204288e-15
+2060,Methanol,"('air', 'non-urban air or from high stacks')",1.3860638005542717e-08
+2061,Uranium-238,"('air',)",1.344623734727319e-09
+2062,"Herbicides, unspecified","('soil', 'agricultural')",3.2031033092543194e-13
+2063,"Oils, unspecified","('soil',)",3.47963017049468e-08
+2064,"Gold, Au 7.1E-4%, in ore, in ground","('natural resource', 'in ground')",1.9935959857016886e-11
+2065,Tebutam,"('soil', 'agricultural')",9.43280617011349e-15
+2066,"Iron, 46% in ore, 25% in crude ore, in ground","('natural resource', 'in ground')",0.0026134420872712485
+2067,"Transformation, from industrial area","('natural resource', 'land')",6.059976544004018e-08
+2068,Fluoride,"('water', 'ocean')",2.0094100278601845e-08
+2069,"Transformation, to annual crop, non-irrigated, extensive","('natural resource', 'land')",9.775435401253994e-09
+2070,Parathion,"('soil', 'agricultural')",2.025653226020892e-13
+2071,"AOX, Adsorbable Organic Halogen as Cl","('water', 'surface water')",1.6061031077985147e-09
+2072,Phenmedipham,"('soil', 'agricultural')",4.034748671179968e-16
+2073,Glyphosate,"('water', 'surface water')",6.959488134628195e-16
+2074,"Silver, Ag 1.5E-5%, Au 5.4E-4%, in ore, in ground","('natural resource', 'in ground')",6.346896686982117e-15
+2075,"Carbon monoxide, fossil","('air', 'urban air close to ground')",1.3752563478806876e-05
+2076,Sodium formate,"('water', 'surface water')",1.2985699678778542e-11
